@@ -1,0 +1,11 @@
+# Unreal Engine の一時フォルダを無視
+SampleProject57/Saved/
+SampleProject57/Intermediate/
+SampleProject57/DerivedDataCache/
+SampleProject57/Build/
+
+# ログやキャッシュを個別に指定
+*.log
+*.lock
+*-journal
+webcache_*/
