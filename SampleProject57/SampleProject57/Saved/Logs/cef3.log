@@ -1,11 +1,10 @@
-[10512:21768:0416/095825.636:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10512:7224:0416/095825.693:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10512:21768:0416/095825.718:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6180:12596:0416/095829.934:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B1AF90ABAEED8C3E3743B08769EDB972 will be ignored
-[10512:3312:0416/095830.378:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[10512:21768:0416/095830.673:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[10512:21768:0416/095830.673:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[10512:21768:0416/095830.673:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[10512:21768:0416/095830.673:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[10512:3312:0416/095830.680:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[23444:3440:0416/100037.695:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[24860:16428:0416/112433.536:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24860:18128:0416/112433.565:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24860:16428:0416/112433.580:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5548:3676:0416/112436.721:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8E3AD2EAFA78977861C537A988939007 will be ignored
+[24860:5444:0416/112437.038:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[24860:16428:0416/112437.189:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24860:16428:0416/112437.191:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24860:16428:0416/112437.191:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24860:16428:0416/112437.191:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24860:5444:0416/112437.194:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
