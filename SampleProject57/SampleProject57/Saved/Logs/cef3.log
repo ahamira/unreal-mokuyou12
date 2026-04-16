@@ -8,3 +8,4 @@
 [24860:16428:0416/112437.191:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
 [24860:16428:0416/112437.191:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
 [24860:5444:0416/112437.194:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24860:16428:0416/123408.406:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
