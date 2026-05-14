@@ -1990,3 +1990,151 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.14-01.45.46:535][346]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3941.700684
 [2026.05.14-01.45.47:536][349]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.14-01.45.47:536][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3942.366943, Update Interval: 335.730469
+[2026.05.14-01.48.42:217][933]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter
+[2026.05.14-01.52.02:135][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4317.294922
+[2026.05.14-01.52.02:467][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-01.52.02:467][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4317.552246, Update Interval: 348.676422
+[2026.05.14-01.56.28:901][582]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter'
+[2026.05.14-01.56.29:034][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.05.14-01.58.24:067][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.14-01.58.24:071][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.039
+[2026.05.14-01.58.24:072][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.05.14-01.58.24:116][283]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.05.14-01.58.24:116][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.05.14-01.58.24:130][283]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto6
+[2026.05.14-01.58.24:130][283]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto6A391809D462766272EF54A85338441B8.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto6.uasset'
+[2026.05.14-01.58.24:131][283]LogFileHelpers: Auto-saving content packages took 0.059
+[2026.05.14-01.58.32:566][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4707.730957
+[2026.05.14-01.58.32:803][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-01.58.32:803][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4707.950195, Update Interval: 315.049896
+[2026.05.14-02.04.20:574][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5055.735840
+[2026.05.14-02.04.20:830][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.04.20:830][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5055.976074, Update Interval: 321.823181
+[2026.05.14-02.08.24:350][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.05.14-02.08.24:356][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.051
+[2026.05.14-02.08.24:357][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.05.14-02.08.24:403][110]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.05.14-02.08.24:403][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.05.14-02.08.24:418][110]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto7
+[2026.05.14-02.08.24:418][110]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto7D49638DE4D977F0F0AA81C963D2C22D5.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto7.uasset'
+[2026.05.14-02.08.24:418][110]LogFileHelpers: Auto-saving content packages took 0.063
+[2026.05.14-02.10.18:376][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5413.532227
+[2026.05.14-02.10.18:632][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.10.18:632][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5413.771973, Update Interval: 352.254395
+[2026.05.14-02.11.30:561][999]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter'
+[2026.05.14-02.11.30:676][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.05.14-02.16.59:108][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5814.246582
+[2026.05.14-02.16.59:421][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.16.59:421][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5814.493164, Update Interval: 335.662720
+[2026.05.14-02.19.13:900][368]LogShaderCompilers: Display: ================================================
+[2026.05.14-02.19.13:900][368]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Total job queries 2,504, among them cache hits 575 (22.96%), DDC hits 1,768 (70.61%), Duplicates 120 (4.79%)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Tracking 1,809 distinct input hashes that result in 1,221 distinct outputs (67.50%)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: RAM used: 13.13 MiB of 1.60 GiB budget. Usage: 0.80%
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Shaders Compiled: 41
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Jobs assigned 41, completed 41 (100%)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Average time worker was idle: 1048.48 s
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 0.90 s
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 1.26 s
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 1.62
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Shader code size: total 357.676 KiB, numShaders 43, average 8.317 KiB, min 4.281 KiB, max 16.066 KiB
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.21 s
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Average processing rate: 7.87 jobs/sec
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Total thread time: 15.549 s
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Total thread preprocess time: 64.562 s
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Percentage time preprocessing: 415.21%
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Effective parallelization: 2.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.248683
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 0.65 sec, max 0.81 sec, min 0.43 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.28 sec, max 0.39 sec, min 0.16 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.24 sec, max 0.29 sec, min 0.14 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled   10 times, average 0.24 sec, max 0.32 sec, min 0.12 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 45.94% of total time (compiled   11 times, average 0.65 sec, max 0.81 sec, min 0.43 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.24% of total time (compiled   10 times, average 0.28 sec, max 0.39 sec, min 0.16 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.13% of total time (compiled   10 times, average 0.24 sec, max 0.32 sec, min 0.12 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                                FAnisotropyPS - 6.36% of total time (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.27% of total time (compiled    4 times, average 0.24 sec, max 0.29 sec, min 0.14 sec)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: === Material stats ===
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Materials Translated:    156
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.05.14-02.19.13:901][368]LogShaderCompilers: Display: ================================================
+[2026.05.14-02.23.27:727][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6202.828613
+[2026.05.14-02.23.28:011][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.23.28:011][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6203.096191, Update Interval: 310.820038
+[2026.05.14-02.23.37:085][389]LogSlate: Window '変数の型を変更' being destroyed
+[2026.05.14-02.23.37:120][389]LogBlueprint: Warning: 変数の型を変更 - エディタ設定により検索がスキップされました。「Nodes(VariableReference(MemberName=+"gameUI" && MemberGuid(A=-679449208 && B=1293977212 && C=1815201211 && D=-868573708)) || Name="(gameUI)") || Pins(Binding="gameUI") || Binding="gameUI"」の検索を検討してください。
+[2026.05.14-02.24.05:960][ 49]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter'
+[2026.05.14-02.24.06:067][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.05.14-02.24.48:910][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.14-02.24.48:914][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.032
+[2026.05.14-02.24.48:914][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.05.14-02.24.49:041][533]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.05.14-02.24.49:041][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.05.14-02.24.49:052][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto8
+[2026.05.14-02.24.49:052][533]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto85F90B29E4EBA1271EE95F693C1C17A2D.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto8.uasset'
+[2026.05.14-02.24.49:053][533]LogFileHelpers: Auto-saving content packages took 0.140
+[2026.05.14-02.29.24:538][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6559.636230
+[2026.05.14-02.29.25:539][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.29.25:539][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6560.302246, Update Interval: 355.698730
+[2026.05.14-02.35.37:747][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.14-02.35.37:748][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.033
+[2026.05.14-02.35.37:748][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.05.14-02.35.37:873][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.05.14-02.35.37:873][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.05.14-02.35.37:886][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto9
+[2026.05.14-02.35.37:886][ 40]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto90292F8FF494F04012BFEA7B6186921E9.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto9.uasset'
+[2026.05.14-02.35.37:886][ 40]LogFileHelpers: Auto-saving content packages took 0.138
+[2026.05.14-02.35.56:337][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6951.409180
+[2026.05.14-02.35.57:337][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.35.57:337][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6952.075195, Update Interval: 308.122803
+[2026.05.14-02.41.54:258][170]LogDerivedDataCache: C:/Users/ktc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.14-02.42.03:734][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7318.810059
+[2026.05.14-02.42.04:735][201]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.42.04:735][201]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7319.478027, Update Interval: 308.445068
+[2026.05.14-02.45.29:272][266]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.14-02.45.29:279][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey
+[2026.05.14-02.45.29:292][266]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_mykey (推定必須メモリ：0.02492 MB)...
+[2026.05.14-02.45.29:296][266]LogStaticMesh: Built static mesh [0.02s] /Game/新規フォルダ/STM_mykey.STM_mykey
+[2026.05.14-02.47.46:559][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7661.597656
+[2026.05.14-02.47.46:825][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.47.46:825][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7661.846680, Update Interval: 314.015320
+[2026.05.14-02.48.50:738][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2026.05.14-02.48.50:742][623]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.063
+[2026.05.14-02.48.50:742][623]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.05.14-02.48.50:780][623]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.05.14-02.48.50:780][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.05.14-02.48.50:796][623]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto0
+[2026.05.14-02.48.50:796][623]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto042B7254041A5EF9A962FEFA08B822426.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto0.uasset'
+[2026.05.14-02.48.50:797][623]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.05.14-02.48.50:805][623]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.05.14-02.48.50:805][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.05.14-02.48.50:810][623]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_Mykey_Auto0
+[2026.05.14-02.48.50:810][623]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey_Auto0A7183E5B468D30914C25FC968ACAD5A6.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_Mykey_Auto0.uasset'
+[2026.05.14-02.48.50:811][623]LogFileHelpers: Auto-saving content packages took 0.069
+[2026.05.14-02.53.47:293][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8022.319336
+[2026.05.14-02.53.47:562][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.53.47:562][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8022.572754, Update Interval: 323.657959
+[2026.05.14-02.59.43:852][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8378.764648
+[2026.05.14-02.59.44:104][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-02.59.44:104][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8379.000000, Update Interval: 305.934631
+[2026.05.14-03.05.37:333][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8732.075195
+[2026.05.14-03.05.37:573][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-03.05.37:573][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8732.297852, Update Interval: 345.268707
+[2026.05.14-03.12.13:887][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9128.321289
+[2026.05.14-03.12.14:139][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-03.12.14:139][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9128.555664, Update Interval: 322.403625
+[2026.05.14-03.18.18:604][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9492.943359
+[2026.05.14-03.18.18:856][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-03.18.18:856][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9493.178711, Update Interval: 327.928101
+[2026.05.14-03.24.23:108][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9857.293945
+[2026.05.14-03.24.23:355][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-03.24.23:355][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9857.521484, Update Interval: 326.807465
