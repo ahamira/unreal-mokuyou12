@@ -2138,3 +2138,45 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.14-03.24.23:108][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9857.293945
 [2026.05.14-03.24.23:355][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.14-03.24.23:355][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9857.521484, Update Interval: 326.807465
+[2026.05.14-03.24.55:350][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.05.14-03.24.55:354][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.039
+[2026.05.14-03.24.55:355][820]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.05.14-03.24.55:480][820]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.05.14-03.24.55:480][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.05.14-03.24.55:484][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_Mykey_Auto1
+[2026.05.14-03.24.55:484][820]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey_Auto13AFF24A846577457E3C9B1BC85B601F2.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_Mykey_Auto1.uasset'
+[2026.05.14-03.24.55:484][820]LogFileHelpers: Auto-saving content packages took 0.131
+[2026.05.14-03.30.45:641][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10239.848633
+[2026.05.14-03.30.46:643][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.14-03.30.46:643][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10240.515625, Update Interval: 345.990173
+[2026.05.14-03.32.04:330][916]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_Mykey.BP_Mykey'
+[2026.05.14-03.32.04:392][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.05.14-03.32.09:248][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.05.14-03.32.09:254][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.14-03.32.09:325][194]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_MyTestCharacter
+[2026.05.14-03.32.09:326][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.05.14-03.32.09:326][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.05.14-03.32.09:338][194]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_MyTestCharacter
+[2026.05.14-03.32.09:340][194]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacterE032A08A4BF703A1E80F7CA211A1C5CE.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MyTestCharacter.uasset'
+[2026.05.14-03.32.09:340][194]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_Mykey
+[2026.05.14-03.32.09:340][194]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.05.14-03.32.09:370][194]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.05.14-03.32.09:370][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.05.14-03.32.09:370][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/BP_Mykey" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_Mykey.uasset" SILENT=true
+[2026.05.14-03.32.09:375][194]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_Mykey
+[2026.05.14-03.32.09:375][194]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey6504A7EC498EBD5E20F97DA1B5A4D662.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_Mykey.uasset'
+[2026.05.14-03.32.09:384][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.612 ms (total: 521.030 ms)
+[2026.05.14-03.32.09:446][194]LogContentValidation: Enabled validators:
+[2026.05.14-03.32.09:446][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.14-03.32.09:446][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.14-03.32.09:446][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.14-03.32.09:446][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.14-03.32.09:446][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.14-03.32.09:446][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.14-03.32.09:446][194]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.05.14-03.32.09:446][194]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.05.14-03.32.09:446][194]AssetCheck: /Game/新規フォルダ/BP_MyTestCharacter アセットを検証しています
+[2026.05.14-03.32.09:446][194]AssetCheck: /Game/新規フォルダ/BP_Mykey アセットを検証しています
+[2026.05.14-03.32.09:446][194]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.05.14-03.32.09:446][194]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.05.14-03.32.09:468][194]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
