@@ -2903,3 +2903,11 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.05.28-03.31.55:842][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4240.300293
 [2026.05.28-03.31.56:843][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.28-03.31.56:843][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4240.966797, Update Interval: 317.690369
+[2026.05.28-03.35.38:625][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.05.28-03.35.38:628][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.032
+[2026.05.28-03.35.38:629][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.05.28-03.35.38:774][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.05.28-03.35.38:774][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.05.28-03.35.38:787][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto4
+[2026.05.28-03.35.38:787][750]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto464C53F24412A1C73BFB6F3A1C64A4A32.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto4.uasset'
+[2026.05.28-03.35.38:788][750]LogFileHelpers: Auto-saving content packages took 0.159
