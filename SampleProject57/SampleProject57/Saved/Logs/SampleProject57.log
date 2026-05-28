@@ -2382,3 +2382,63 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.05.28-03.14.28:564][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3193.047119
 [2026.05.28-03.14.29:565][754]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.28-03.14.29:565][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3193.716064, Update Interval: 301.008942
+[2026.05.28-03.17.02:963][890]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.05.28-03.17.02:970][890]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.05.28-03.17.02:970][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.28-03.17.02:970][890]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.05.28-03.17.02:972][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002955s)
+[2026.05.28-03.17.02:972][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.002998s)
+[2026.05.28-03.17.03:001][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.05.28-03.17.03:003][890]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.05.28-03.17.03:005][890]LogPlayLevel: PIE: World Init took: (0.001955s)
+[2026.05.28-03.17.03:005][890]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.05.28-03.17.03:005][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.28-03.17.03:005][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.28-03.17.03:005][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.28-03.17.03:005][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.28-03.17.03:005][890]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.28-03.17.03:005][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.28-03.17.03:005][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.28-03.17.03:005][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.28-03.17.03:005][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.28-03.17.03:005][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.28-03.17.03:005][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.28-03.17.03:008][890]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.28-03.17.03:011][890]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.05.28-03.17.03:011][890]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.05.28-03.17.03:012][890]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.05.28-03.17.03:012][890]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.05.28-03.17.03:012][890]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.05.28-03.17.03:013][890]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.05.28-03.17.03:026][890]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.05.28-03.17.03:026][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.28-03.17.03:026][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.28-03.17.03:026][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.28-03.17.03:027][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.05.28-03.17.03:027][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.05.28-03.17.03:030][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.05.28-03.17.03:030][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.05.28-03.17.03:030][890]LogInit: FAudioDevice initialized with ID 14.
+[2026.05.28-03.17.03:030][890]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestLevel1'.
+[2026.05.28-03.17.03:030][890]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.05.28-03.17.03:034][890]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.05.28-03.17.03:036][890]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.05.28-12.17.03
+[2026.05.28-03.17.03:036][890]LogWorld: Bringing up level for play took: 0.001154
+[2026.05.28-03.17.03:038][890]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.05.28-03.17.03:042][890]PIE: サーバーにログインしました
+[2026.05.28-03.17.03:044][890]PIE: PIE合計開始時間 0.074 秒。
+[2026.05.28-03.17.03:088][891]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.28-03.17.11:776][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.28-03.17.11:776][409]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.05.28-03.17.11:776][409]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.05.28-03.17.11:776][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-03.17.11:780][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.28-03.17.11:785][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.28-03.17.11:811][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.28-03.17.11:811][409]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.05.28-03.17.11:812][409]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.05.28-03.17.11:814][409]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.05.28-03.17.11:822][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.05.28-03.17.11:863][410]LogPlayLevel: Display: Destroying online subsystem :Context_26
