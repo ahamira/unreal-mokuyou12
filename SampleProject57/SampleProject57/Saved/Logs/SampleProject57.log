@@ -2304,3 +2304,884 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.11-01.06.45:113][623]LogContentValidation: バリデーターによって検証された 1 アセット数
 [2026.06.11-01.06.45:113][623]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
 [2026.06.11-01.06.45:146][623]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.11-01.08.03:232][541]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.06.11-01.08.03:240][541]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.06.11-01.08.03:257][542]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.06.11-01.08.09:331][905]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2026.06.11-01.08.09:333][905]LogContentBrowser: End creating deferred item NewMaterial
+[2026.06.11-01.08.28:770][ 47]LogTexture: Display: テクスチャをビルドしています:/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK (TFO_AutoDXT、4096x4096 x1x1x1) (推定必須メモリ:385.000 MB)、EncodeSpeed:Fast
+[2026.06.11-01.08.28:802][ 47]LogTexture: Display: テクスチャをビルドしています:/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_N.T_Manny_01_N (TFO_BC5、4096x4096 x1x1x1) (推定必須メモリ:520.499988 MB)、EncodeSpeed:Fast
+[2026.06.11-01.08.28:821][ 47]LogTexture: Display: テクスチャをビルドしています:/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK (TFO_DXT1、4096x4096 x1x1x1) (推定必須メモリ:385.000 MB)、EncodeSpeed:Fast
+[2026.06.11-01.08.28:890][ 49]LogTexture: Display: テクスチャをビルドしています:/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN (TFO_BC5、4096x4096 x1x1x1) (推定必須メモリ:520.499988 MB)、EncodeSpeed:Fast
+[2026.06.11-01.08.28:915][ 50]LogTexture: Display: テクスチャをビルドしています:/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan (TFO_BC5、4096x4096 x1x1x1) (推定必須メモリ:520.499988 MB)、EncodeSpeed:Fast
+[2026.06.11-01.08.28:925][ 50]LogTexture: Display: テクスチャをビルドしています:/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK (TFO_AutoDXT、4096x4096 x1x1x1) (推定必須メモリ:385.000 MB)、EncodeSpeed:Fast
+[2026.06.11-01.08.28:943][ 51]LogTexture: Display: テクスチャをビルドしています:/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT、4096x4096 x1x1x1) (推定必須メモリ:385.000 MB)、EncodeSpeed:Fast
+[2026.06.11-01.08.59:775][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2101.741943
+[2026.06.11-01.09.01:109][646]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.09.01:109][646]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2102.742676, Update Interval: 317.582336
+[2026.06.11-01.09.12:034][679]LogContentBrowser: Attempting asset rename: NewMaterial -> M_s
+[2026.06.11-01.09.12:152][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-01.09.12:152][679]LogFileHelpers: Saving Package: /Game/新規フォルダ/M_s
+[2026.06.11-01.09.12:152][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/M_s] ([1] browsable assets)...
+[2026.06.11-01.09.12:165][679]OBJ SavePackage:     Rendered thumbnail for [Material /Game/新規フォルダ/M_s.M_s]
+[2026.06.11-01.09.12:165][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/M_s]
+[2026.06.11-01.09.12:165][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/M_s" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_s.uasset" SILENT=true
+[2026.06.11-01.09.12:168][679]LogSavePackage: Moving output files for package: /Game/新規フォルダ/M_s
+[2026.06.11-01.09.12:168][679]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/M_sBA5E4EDA437070BA8118908135752DCA.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_s.uasset'
+[2026.06.11-01.09.12:169][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.251 ms (total: 459.902 ms)
+[2026.06.11-01.09.12:218][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.06.11-01.09.12:250][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.06.11-01.09.12:275][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.06.11-01.09.12:359][679]LogContentValidation: Enabled validators:
+[2026.06.11-01.09.12:359][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-01.09.12:359][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-01.09.12:359][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-01.09.12:359][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-01.09.12:359][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-01.09.12:359][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-01.09.12:359][679]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.11-01.09.12:359][679]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.06.11-01.09.12:359][679]AssetCheck: /Game/新規フォルダ/M_s アセットを検証しています
+[2026.06.11-01.09.12:359][679]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.06.11-01.09.12:359][679]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.11-01.09.12:409][679]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.11-01.09.29:653][683]LogContentBrowser: Attempting asset rename: M_s -> M_Batton
+[2026.06.11-01.09.29:742][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-01.09.29:742][683]LogFileHelpers: Saving Package: /Game/新規フォルダ/M_Batton
+[2026.06.11-01.09.29:742][683]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/M_Batton] ([1] browsable assets)...
+[2026.06.11-01.09.29:742][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/M_Batton]
+[2026.06.11-01.09.29:742][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/M_Batton" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_Batton.uasset" SILENT=true
+[2026.06.11-01.09.29:745][683]LogSavePackage: Moving output files for package: /Game/新規フォルダ/M_Batton
+[2026.06.11-01.09.29:745][683]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/M_BattonD21F34CB4F5B34BF4F872AAC3997FBDF.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_Batton.uasset'
+[2026.06.11-01.09.29:745][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.636 ms (total: 462.539 ms)
+[2026.06.11-01.09.29:792][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.11-01.09.29:819][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.06.11-01.09.29:843][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.11-01.09.29:910][683]LogContentValidation: Enabled validators:
+[2026.06.11-01.09.29:910][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-01.09.29:910][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-01.09.29:910][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-01.09.29:910][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-01.09.29:910][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-01.09.29:910][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-01.09.29:910][683]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.11-01.09.29:910][683]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.06.11-01.09.29:910][683]AssetCheck: /Game/新規フォルダ/M_Batton アセットを検証しています
+[2026.06.11-01.09.29:910][683]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.06.11-01.09.29:910][683]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.11-01.09.29:954][683]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.11-01.09.41:326][255]LogContentBrowser: Attempting asset rename: M_Batton -> M_Button
+[2026.06.11-01.09.41:411][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-01.09.41:411][255]LogFileHelpers: Saving Package: /Game/新規フォルダ/M_Button
+[2026.06.11-01.09.41:411][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/M_Button] ([1] browsable assets)...
+[2026.06.11-01.09.41:411][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/M_Button]
+[2026.06.11-01.09.41:412][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/M_Button" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_Button.uasset" SILENT=true
+[2026.06.11-01.09.41:414][255]LogSavePackage: Moving output files for package: /Game/新規フォルダ/M_Button
+[2026.06.11-01.09.41:414][255]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/M_ButtonA36ECA7746C4C4A34268D88803DB5C7B.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_Button.uasset'
+[2026.06.11-01.09.41:415][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.985 ms (total: 465.524 ms)
+[2026.06.11-01.09.41:460][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.11-01.09.41:488][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.06.11-01.09.41:514][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.06.11-01.09.41:578][255]LogContentValidation: Enabled validators:
+[2026.06.11-01.09.41:578][255]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-01.09.41:578][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-01.09.41:578][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-01.09.41:578][255]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-01.09.41:578][255]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-01.09.41:578][255]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-01.09.41:578][255]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.11-01.09.41:578][255]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.06.11-01.09.41:578][255]AssetCheck: /Game/新規フォルダ/M_Button アセットを検証しています
+[2026.06.11-01.09.41:578][255]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.06.11-01.09.41:578][255]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.11-01.09.41:623][255]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.11-01.09.46:170][405]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/新規フォルダ/M_Button.M_Button
+[2026.06.11-01.09.46:189][405]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.11-01.09.46:736][405]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.11-01.09.46:736][405]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.11-01.09.46:736][405]MaterialEditorStats: Shader Count: 0
+[2026.06.11-01.09.46:736][405]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.11-01.09.46:822][407]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 1
+[2026.06.11-01.09.46:822][407]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.11-01.09.46:822][407]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.11-01.09.46:822][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.11-01.09.46:822][407]MaterialEditorStats: Shader Count: 3
+[2026.06.11-01.09.46:822][407]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.11-01.10.03:780][638]LogSlate: Window 'カラー ピッカー' being destroyed
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: ================================================
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Total job queries 384, among them cache hits 31 (8.07%), DDC hits 296 (77.08%), Duplicates 49 (12.76%)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Tracking 304 distinct input hashes that result in 223 distinct outputs (73.36%)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: RAM used: 3.06 MiB of 1.60 GiB budget. Usage: 0.19%
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Shaders Compiled: 8
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Average time worker was idle: 370.39 s
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Job execution time: average 0.39 s, max 0.62 s
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Job life time (pending + execution): average 0.45 s, max 0.63
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Shader code size: total 62.16 KiB, numShaders 8, average 7.77 KiB, min 4.281 KiB, max 11.625 KiB
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.06 s
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Average processing rate: 3.88 jobs/sec
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Total thread time: 1.554 s
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Total thread preprocess time: 10.783 s
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Percentage time preprocessing: 693.86%
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Effective parallelization: 0.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.062862
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.40 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.13 sec, max 0.13 sec, min 0.13 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.11 sec, max 0.11 sec, min 0.10 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 53.60% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.40 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.93% of total time (compiled    2 times, average 0.13 sec, max 0.13 sec, min 0.13 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.07% of total time (compiled    2 times, average 0.11 sec, max 0.11 sec, min 0.10 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.80% of total time (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.59% of total time (compiled    1 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: === Material stats ===
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Materials Translated:    150
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Material Translation Only: 0.04 s (34%)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.06.11-01.10.03:797][638]LogShaderCompilers: Display: ================================================
+[2026.06.11-01.10.03:798][638]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.11-01.10.03:798][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.11-01.10.03:798][638]MaterialEditorStats: Shader Count: 0
+[2026.06.11-01.10.03:798][638]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.11-01.10.04:010][643]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.11-01.10.04:010][643]MaterialEditorStats: Texture samplers: 0/16
+[2026.06.11-01.10.04:010][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.11-01.10.04:010][643]MaterialEditorStats: Shader Count: 2
+[2026.06.11-01.10.04:010][643]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.11-01.10.04:193][648]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 1
+[2026.06.11-01.10.04:193][648]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: 
+Resource Limit: 64
+Resources Used: 4
+RW Resource Limit: 16
+RW Resources Used: 0
+Sampler Limit: 32
+Samplers Used: 0
+[2026.06.11-01.10.04:193][648]MaterialEditorStats: Texture samplers: 1/16
+[2026.06.11-01.10.04:193][648]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.06.11-01.10.04:193][648]MaterialEditorStats: Shader Count: 4
+[2026.06.11-01.10.04:193][648]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.06.11-01.10.07:419][840]LogMaterialEditor: Saving and Compiling material M_Button
+[2026.06.11-01.10.07:522][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.06.11-01.10.08:318][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.06.11-01.10.08:331][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-01.10.08:390][840]LogFileHelpers: Saving Package: /Game/新規フォルダ/M_Button
+[2026.06.11-01.10.08:390][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/M_Button] ([1] browsable assets)...
+[2026.06.11-01.10.08:398][840]OBJ SavePackage:     Rendered thumbnail for [Material /Game/新規フォルダ/M_Button.M_Button]
+[2026.06.11-01.10.08:398][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/M_Button]
+[2026.06.11-01.10.08:398][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/M_Button" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_Button.uasset" SILENT=true
+[2026.06.11-01.10.08:400][840]LogSavePackage: Moving output files for package: /Game/新規フォルダ/M_Button
+[2026.06.11-01.10.08:400][840]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/M_Button465129D8431E10410169539EAAE96EB7.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_Button.uasset'
+[2026.06.11-01.10.08:409][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.099 ms (total: 543.624 ms)
+[2026.06.11-01.10.08:478][840]LogContentValidation: Enabled validators:
+[2026.06.11-01.10.08:478][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-01.10.08:478][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-01.10.08:478][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-01.10.08:478][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-01.10.08:478][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-01.10.08:478][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-01.10.08:478][840]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.11-01.10.08:478][840]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.06.11-01.10.08:478][840]AssetCheck: /Game/新規フォルダ/M_Button アセットを検証しています
+[2026.06.11-01.10.08:478][840]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.06.11-01.10.08:478][840]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.11-01.10.37:005][835]LogSlate: Window '親クラスを選択' being destroyed
+[2026.06.11-01.10.37:021][835]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.06.11-01.10.37:029][835]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.06.11-01.10.37:054][836]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.06.11-01.10.48:855][537]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MySwitchButton
+[2026.06.11-01.10.48:862][537]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.06.11-01.10.55:419][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton
+[2026.06.11-01.11.13:850][390]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.11-01.11.13:854][390]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_mykey (推定必須メモリ：0.02492 MB)...
+[2026.06.11-01.11.13:858][390]LogStaticMesh: Built static mesh [0.01s] /Game/新規フォルダ/STM_mykey.STM_mykey
+[2026.06.11-01.12.24:863][587]LogSlate: Window 'パスを選択' being destroyed
+[2026.06.11-01.12.24:982][587]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_MyButton1 (推定必須メモリ：0.02492 MB)...
+[2026.06.11-01.12.24:987][587]LogStaticMesh: Built static mesh [0.01s] /Game/新規フォルダ/STM_MyButton1.STM_MyButton1
+[2026.06.11-01.12.24:988][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1
+[2026.06.11-01.12.24:988][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1
+[2026.06.11-01.12.24:989][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1 as actor: StaticMeshActor /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.StaticMeshActor_5
+[2026.06.11-01.12.25:061][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.06.11-01.12.31:520][969]Cmd: DELETE
+[2026.06.11-01.12.31:520][969]Cmd: ACTOR DELETE
+[2026.06.11-01.12.31:524][969]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.11-01.12.31:550][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.06.11-01.12.31:553][969]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.06.11-01.12.36:421][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1
+[2026.06.11-01.12.36:421][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1
+[2026.06.11-01.12.36:421][253]LogActorFactory: Actor Factory spawned StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1 as actor: StaticMeshActor /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.StaticMeshActor_6
+[2026.06.11-01.12.37:106][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.11-01.12.37:109][293]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.06.11-01.12.37:114][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1
+[2026.06.11-01.12.37:114][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1
+[2026.06.11-01.12.37:116][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1 as actor: StaticMeshActor /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.StaticMeshActor_7
+[2026.06.11-01.12.54:215][247]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/新規フォルダ/STM_MyButtonFrame.STM_MyButtonFrame
+[2026.06.11-01.12.54:319][247]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: ================================================
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Total job queries 409, among them cache hits 47 (11.49%), DDC hits 296 (72.37%), Duplicates 50 (12.22%)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Tracking 312 distinct input hashes that result in 229 distinct outputs (73.40%)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: RAM used: 3.11 MiB of 1.60 GiB budget. Usage: 0.19%
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Shaders Compiled: 16
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Average time worker was idle: 241.24 s
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 0.62 s
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Job life time (pending + execution): average 0.41 s, max 0.71
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Shader code size: total 130.519 KiB, numShaders 16, average 8.157 KiB, min 4.281 KiB, max 11.625 KiB
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.39 s
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.07%
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Average processing rate: 4.72 jobs/sec
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Total thread time: 3.133 s
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Total thread preprocess time: 11.09 s
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Percentage time preprocessing: 353.99%
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.077045
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.42 sec, max 0.43 sec, min 0.40 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.13 sec, max 0.13 sec, min 0.12 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 40.19% of total time (compiled    3 times, average 0.42 sec, max 0.43 sec, min 0.40 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.10% of total time (compiled    3 times, average 0.13 sec, max 0.13 sec, min 0.12 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.16% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.74% of total time (compiled    3 times, average 0.10 sec, max 0.11 sec, min 0.09 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.16% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: === Material stats ===
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Materials Translated:    153
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Material Translation Only: 0.04 s (34%)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.06.11-01.13.03:808][740]LogShaderCompilers: Display: ================================================
+[2026.06.11-01.13.21:990][783]LogContentBrowser: Attempting asset rename: M_Button -> M_MyButton
+[2026.06.11-01.13.22:131][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-01.13.22:131][783]LogFileHelpers: Saving Package: /Game/新規フォルダ/M_MyButton
+[2026.06.11-01.13.22:132][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/M_MyButton] ([1] browsable assets)...
+[2026.06.11-01.13.22:132][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/M_MyButton]
+[2026.06.11-01.13.22:132][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/M_MyButton" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_MyButton.uasset" SILENT=true
+[2026.06.11-01.13.22:133][783]LogSavePackage: Moving output files for package: /Game/新規フォルダ/M_MyButton
+[2026.06.11-01.13.22:133][783]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/M_MyButton095991C045081288F4DAA5943C12909A.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/M_MyButton.uasset'
+[2026.06.11-01.13.22:133][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.577 ms (total: 546.202 ms)
+[2026.06.11-01.13.22:201][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.06.11-01.13.22:229][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.11-01.13.22:255][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.06.11-01.13.22:323][783]LogContentValidation: Enabled validators:
+[2026.06.11-01.13.22:323][783]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-01.13.22:323][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-01.13.22:323][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-01.13.22:323][783]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-01.13.22:323][783]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-01.13.22:323][783]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-01.13.22:323][783]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.11-01.13.22:323][783]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.06.11-01.13.22:323][783]AssetCheck: /Game/新規フォルダ/M_MyButton アセットを検証しています
+[2026.06.11-01.13.22:323][783]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.06.11-01.13.22:323][783]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.11-01.13.22:378][783]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.11-01.13.31:836][291]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1
+[2026.06.11-01.13.56:269][600]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.13.56:331][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.06.11-01.14.27:888][957]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.14.27:935][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.06.11-01.14.52:947][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2454.931641
+[2026.06.11-01.14.53:209][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.14.53:209][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2455.177979, Update Interval: 302.109436
+[2026.06.11-01.15.38:608][460]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.15.38:658][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.06.11-01.15.47:624][726]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.15.47:668][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.06.11-01.20.31:110][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2793.102783
+[2026.06.11-01.20.31:394][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.20.31:394][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2793.369629, Update Interval: 356.916412
+[2026.06.11-01.23.36:675][549]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.23.36:720][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.06.11-01.27.23:927][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3205.916504
+[2026.06.11-01.27.24:161][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.27.24:161][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3206.133057, Update Interval: 316.758331
+[2026.06.11-01.33.33:776][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3575.754395
+[2026.06.11-01.33.34:027][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.33.34:027][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3575.988281, Update Interval: 316.901154
+[2026.06.11-01.35.26:325][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.06.11-01.35.26:329][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/TestLevel1] ([1] browsable assets)...
+[2026.06.11-01.35.26:329][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/TestLevel1]
+[2026.06.11-01.35.26:337][164]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/TestLevel1_Auto2
+[2026.06.11-01.35.26:337][164]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/TestLevel1_Auto2241121134C960F9485121887F4AC832C.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/TestLevel1_Auto2.umap'
+[2026.06.11-01.35.26:338][164]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.043
+[2026.06.11-01.35.26:338][164]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2026.06.11-01.35.26:339][164]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/STM_MyButtonFrame] ([1] browsable assets)...
+[2026.06.11-01.35.26:372][164]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/新規フォルダ/STM_MyButtonFrame.STM_MyButtonFrame]
+[2026.06.11-01.35.26:372][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/STM_MyButtonFrame]
+[2026.06.11-01.35.26:375][164]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/STM_MyButtonFrame_Auto2
+[2026.06.11-01.35.26:375][164]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/STM_MyButtonFrame_Auto20E7F90B4409323D6B8BF938669A4EAA3.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/STM_MyButtonFrame_Auto2.uasset'
+[2026.06.11-01.35.26:375][164]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-01.35.26:381][164]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-01.35.26:382][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-01.35.26:386][164]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto2
+[2026.06.11-01.35.26:386][164]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto21279E09444D07E6212145EA4822A2DAE.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto2.uasset'
+[2026.06.11-01.35.26:387][164]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/STM_MyButton1] ([1] browsable assets)...
+[2026.06.11-01.35.26:393][164]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/新規フォルダ/STM_MyButton1.STM_MyButton1]
+[2026.06.11-01.35.26:393][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/STM_MyButton1]
+[2026.06.11-01.35.26:396][164]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/STM_MyButton1_Auto2
+[2026.06.11-01.35.26:396][164]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/STM_MyButton1_Auto2B7FE4FA64E1770218EDF859D71CC713F.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/STM_MyButton1_Auto2.uasset'
+[2026.06.11-01.35.26:396][164]LogFileHelpers: Auto-saving content packages took 0.057
+[2026.06.11-01.35.49:942][575]LogDerivedDataCache: C:/Users/ktc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.11-01.39.38:925][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3940.902588
+[2026.06.11-01.39.39:575][350]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.39.39:575][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3941.536133, Update Interval: 351.102631
+[2026.06.11-01.43.47:243][419]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.43.47:303][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.06.11-01.45.26:619][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.11-01.45.26:622][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.030
+[2026.06.11-01.45.26:623][352]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-01.45.26:657][352]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-01.45.26:658][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-01.45.26:663][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto3
+[2026.06.11-01.45.26:663][352]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto3729B28854616B51F57E72EA274570044.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto3.uasset'
+[2026.06.11-01.45.26:663][352]LogFileHelpers: Auto-saving content packages took 0.041
+[2026.06.11-01.46.01:117][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4323.059082
+[2026.06.11-01.46.01:367][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.46.01:367][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4323.292480, Update Interval: 345.995667
+[2026.06.11-01.52.36:144][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4718.029785
+[2026.06.11-01.52.36:427][231]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.52.36:427][231]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4718.295898, Update Interval: 341.582703
+[2026.06.11-01.54.02:494][153]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.54.02:551][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.06.11-01.57.12:539][459]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.57.12:592][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.06.11-01.57.50:095][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.11-01.57.50:098][743]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.030
+[2026.06.11-01.57.50:099][743]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-01.57.50:224][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-01.57.50:224][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-01.57.50:229][743]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto4
+[2026.06.11-01.57.50:229][743]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto461920C4947D421B2423AA7A6972DDAA1.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto4.uasset'
+[2026.06.11-01.57.50:230][743]LogFileHelpers: Auto-saving content packages took 0.132
+[2026.06.11-01.58.23:950][930]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-01.58.24:003][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.06.11-01.59.03:145][109]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5104.963379
+[2026.06.11-01.59.04:144][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-01.59.04:144][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5105.629395, Update Interval: 355.521118
+[2026.06.11-02.05.55:204][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5517.024414
+[2026.06.11-02.05.56:203][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.05.56:203][349]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5517.690430, Update Interval: 300.206909
+[2026.06.11-02.07.50:642][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.06.11-02.07.50:646][691]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.036
+[2026.06.11-02.07.50:647][691]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-02.07.50:770][691]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-02.07.50:770][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-02.07.50:776][691]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto5
+[2026.06.11-02.07.50:776][691]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto571C19B2C4B1907D72786D8AC32CBAD27.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto5.uasset'
+[2026.06.11-02.07.50:777][691]LogFileHelpers: Auto-saving content packages took 0.130
+[2026.06.11-02.10.40:148][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.06.11-02.10.42:445][205]LogSlate: Window 'コンテンツを保存' being destroyed
+[2026.06.11-02.10.42:461][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-02.10.42:527][205]LogFileHelpers: Saving Map: /Game/新規フォルダ/TestLevel1
+[2026.06.11-02.10.42:527][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/TestLevel1] ([1] browsable assets)...
+[2026.06.11-02.10.42:527][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/TestLevel1]
+[2026.06.11-02.10.42:584][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.06.11-02.10.42:594][205]LogSavePackage: Moving output files for package: /Game/新規フォルダ/TestLevel1
+[2026.06.11-02.10.42:594][205]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/TestLevel13CFED1C646BEF9F6E96A429BE6071029.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/TestLevel1.umap'
+[2026.06.11-02.10.42:604][205]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_MySwitchButton
+[2026.06.11-02.10.42:604][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-02.10.42:604][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-02.10.42:609][205]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_MySwitchButton
+[2026.06.11-02.10.42:609][205]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButtonCD7723E74B82E026729218A64F44CA53.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MySwitchButton.uasset'
+[2026.06.11-02.10.42:612][205]LogFileHelpers: Saving Package: /Game/新規フォルダ/STM_MyButton1
+[2026.06.11-02.10.42:612][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/STM_MyButton1] ([1] browsable assets)...
+[2026.06.11-02.10.42:612][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/STM_MyButton1]
+[2026.06.11-02.10.42:612][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/STM_MyButton1" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/STM_MyButton1.uasset" SILENT=true
+[2026.06.11-02.10.42:614][205]LogSavePackage: Moving output files for package: /Game/新規フォルダ/STM_MyButton1
+[2026.06.11-02.10.42:614][205]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/STM_MyButton14C43E9214208E12EB80703A222042FC7.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/STM_MyButton1.uasset'
+[2026.06.11-02.10.42:615][205]LogFileHelpers: Saving Package: /Game/新規フォルダ/STM_MyButtonFrame
+[2026.06.11-02.10.42:615][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/STM_MyButtonFrame] ([1] browsable assets)...
+[2026.06.11-02.10.42:615][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/STM_MyButtonFrame]
+[2026.06.11-02.10.42:617][205]LogSavePackage: Moving output files for package: /Game/新規フォルダ/STM_MyButtonFrame
+[2026.06.11-02.10.42:617][205]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/STM_MyButtonFrameDA5F8815469F45B6BB1BD79223FDBD5F.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/STM_MyButtonFrame.uasset'
+[2026.06.11-02.10.42:632][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.841 ms (total: 717.043 ms)
+[2026.06.11-02.10.42:697][205]LogContentValidation: Enabled validators:
+[2026.06.11-02.10.42:698][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-02.10.42:698][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-02.10.42:698][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-02.10.42:698][205]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-02.10.42:698][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-02.10.42:698][205]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-02.10.42:698][205]LogContentValidation: Display: Starting to validate 4 assets (0 associated objects such as actors)
+[2026.06.11-02.10.42:698][205]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.06.11-02.10.42:698][205]AssetCheck: /Game/新規フォルダ/TestLevel1 アセットを検証しています
+[2026.06.11-02.10.42:698][205]AssetCheck: /Game/新規フォルダ/BP_MySwitchButton アセットを検証しています
+[2026.06.11-02.10.42:698][205]AssetCheck: /Game/新規フォルダ/STM_MyButton1 アセットを検証しています
+[2026.06.11-02.10.42:698][205]AssetCheck: /Game/新規フォルダ/STM_MyButtonFrame アセットを検証しています
+[2026.06.11-02.10.42:698][205]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.06.11-02.10.42:698][205]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 4
+[2026.06.11-02.10.42:724][205]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.11-02.11.36:079][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5857.895020
+[2026.06.11-02.11.37:080][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.11.37:080][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5858.562012, Update Interval: 304.072388
+[2026.06.11-02.14.13:912][289]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-02.14.13:967][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.06.11-02.14.26:156][423]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 291D22754C5B4192364D6EA5472C5D78 (172.22.81.27:51082)
+[2026.06.11-02.17.01:042][237]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 9095A09445D657FAEE4C2DAB1047A4A7 (172.22.81.27:64494)
+[2026.06.11-02.17.30:915][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6212.641602
+[2026.06.11-02.17.31:165][ 44]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.17.31:165][ 44]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6212.874512, Update Interval: 309.078644
+[2026.06.11-02.20.40:340][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.06.11-02.20.40:345][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.042
+[2026.06.11-02.20.40:345][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-02.20.40:356][371]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-02.20.40:356][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-02.20.40:361][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto6
+[2026.06.11-02.20.40:361][371]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto6FEF228B449F45BA2F073D3897569C519.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto6.uasset'
+[2026.06.11-02.20.40:362][371]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.06.11-02.22.36:873][599]LogSlate: Window 'ブループリントコンポーネントを追加' being destroyed
+[2026.06.11-02.23.26:366][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6568.008301
+[2026.06.11-02.23.27:366][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.23.27:366][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6568.674805, Update Interval: 343.276459
+[2026.06.11-02.30.06:153][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6967.775879
+[2026.06.11-02.30.06:403][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.30.06:404][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6968.010742, Update Interval: 347.226166
+[2026.06.11-02.35.49:942][908]LogDerivedDataCache: C:/Users/ktc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.11-02.36.37:932][763]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7359.552246
+[2026.06.11-02.36.38:188][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.36.38:188][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7359.790039, Update Interval: 354.279602
+[2026.06.11-02.38.07:968][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.06.11-02.38.07:972][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.038
+[2026.06.11-02.38.07:973][994]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-02.38.07:980][994]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-02.38.07:980][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-02.38.07:986][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto7
+[2026.06.11-02.38.07:986][994]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto7E3D194F7498F2754A1C02BBC8B8189B6.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto7.uasset'
+[2026.06.11-02.38.07:986][994]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.06.11-02.43.28:343][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7769.877930
+[2026.06.11-02.43.28:595][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.43.28:595][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7770.112793, Update Interval: 334.111755
+[2026.06.11-02.47.30:173][397]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-02.47.30:225][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.06.11-02.49.26:008][197]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-02.49.26:063][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.06.11-02.49.35:728][763]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-02.49.35:780][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.06.11-02.49.45:777][350]Cmd: DELETE
+[2026.06.11-02.49.45:777][350]Cmd: ACTOR DELETE
+[2026.06.11-02.49.45:780][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.11-02.49.45:810][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.06.11-02.49.45:816][350]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.06.11-02.49.46:938][413]Cmd: DELETE
+[2026.06.11-02.49.46:938][413]Cmd: ACTOR DELETE
+[2026.06.11-02.49.46:940][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.11-02.49.46:970][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.06.11-02.49.46:974][413]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.06.11-02.49.51:141][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8152.617676
+[2026.06.11-02.49.51:268][649]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton_C
+[2026.06.11-02.49.51:268][649]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton_C
+[2026.06.11-02.49.51:269][649]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton as actor: BP_MySwitchButton_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_MySwitchButton_C_0
+[2026.06.11-02.49.51:271][649]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton as actor: BP_MySwitchButton_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_MySwitchButton_C_0
+[2026.06.11-02.49.51:381][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.49.51:381][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8152.842285, Update Interval: 354.376648
+[2026.06.11-02.49.52:003][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.06.11-02.49.52:008][691]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.06.11-02.49.52:013][691]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton_C
+[2026.06.11-02.49.52:013][691]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton_C
+[2026.06.11-02.49.52:014][691]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton as actor: BP_MySwitchButton_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_MySwitchButton_C_1
+[2026.06.11-02.49.52:016][691]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton as actor: BP_MySwitchButton_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_MySwitchButton_C_1
+[2026.06.11-02.49.53:516][778]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.06.11-02.49.53:525][778]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.11-02.49.53:525][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.11-02.49.53:564][778]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.49.53:567][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003273s)
+[2026.06.11-02.49.53:567][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.003379s)
+[2026.06.11-02.49.53:596][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.06.11-02.49.53:600][778]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.06.11-02.49.53:602][778]LogPlayLevel: PIE: World Init took: (0.002281s)
+[2026.06.11-02.49.53:602][778]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.06.11-02.49.53:602][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.11-02.49.53:602][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.11-02.49.53:602][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.11-02.49.53:602][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.11-02.49.53:602][778]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.11-02.49.53:602][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.11-02.49.53:602][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.11-02.49.53:602][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.11-02.49.53:602][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.11-02.49.53:602][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.11-02.49.53:602][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.11-02.49.53:605][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.11-02.49.53:607][778]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.49.53:608][778]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.49.53:608][778]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.49.53:608][778]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.49.53:609][778]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.49.53:609][778]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.49.53:622][778]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.06.11-02.49.53:623][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.11-02.49.53:623][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.11-02.49.53:623][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.11-02.49.53:624][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.06.11-02.49.53:624][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.06.11-02.49.53:625][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.06.11-02.49.53:625][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.06.11-02.49.53:625][778]LogInit: FAudioDevice initialized with ID 15.
+[2026.06.11-02.49.53:625][778]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestLevel1'.
+[2026.06.11-02.49.53:626][778]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.11-02.49.53:640][778]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.06.11-02.49.53:642][778]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.06.11-11.49.53
+[2026.06.11-02.49.53:642][778]LogWorld: Bringing up level for play took: 0.001296
+[2026.06.11-02.49.53:645][778]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.06.11-02.49.53:651][778]PIE: サーバーにログインしました
+[2026.06.11-02.49.53:652][778]PIE: PIE合計開始時間 0.13 秒。
+[2026.06.11-02.49.53:697][778]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.11-02.50.03:826][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.50.03:826][382]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.50.03:826][382]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.06.11-02.50.03:826][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.50.03:828][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.11-02.50.03:833][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.50.03:860][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.50.03:861][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.11-02.50.03:861][382]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.06.11-02.50.03:863][382]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.06.11-02.50.03:871][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.06.11-02.50.03:910][383]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.06.11-02.50.08:815][674]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.06.11-02.50.08:820][674]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.11-02.50.08:820][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.11-02.50.08:844][674]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.50.08:847][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003059s)
+[2026.06.11-02.50.08:847][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.003103s)
+[2026.06.11-02.50.08:876][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.06.11-02.50.08:880][674]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.06.11-02.50.08:881][674]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2026.06.11-02.50.08:881][674]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.06.11-02.50.08:881][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.11-02.50.08:881][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.11-02.50.08:881][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.11-02.50.08:881][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.11-02.50.08:881][674]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.11-02.50.08:881][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.11-02.50.08:881][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.11-02.50.08:881][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.11-02.50.08:881][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.11-02.50.08:881][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.11-02.50.08:881][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.11-02.50.08:883][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.11-02.50.08:885][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.50.08:886][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.50.08:886][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.50.08:886][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.50.08:886][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.50.08:887][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.50.08:896][674]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.06.11-02.50.08:896][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.11-02.50.08:896][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.11-02.50.08:897][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.11-02.50.08:897][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.06.11-02.50.08:897][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.06.11-02.50.08:900][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.06.11-02.50.08:900][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.06.11-02.50.08:900][674]LogInit: FAudioDevice initialized with ID 16.
+[2026.06.11-02.50.08:900][674]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestLevel1'.
+[2026.06.11-02.50.08:900][674]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.11-02.50.08:902][674]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.06.11-02.50.08:904][674]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.06.11-11.50.08
+[2026.06.11-02.50.08:904][674]LogWorld: Bringing up level for play took: 0.001141
+[2026.06.11-02.50.08:906][674]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.06.11-02.50.08:909][674]PIE: サーバーにログインしました
+[2026.06.11-02.50.08:911][674]PIE: PIE合計開始時間 0.091 秒。
+[2026.06.11-02.50.08:952][675]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.11-02.50.15:685][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.50.15:685][ 74]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.50.15:685][ 74]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.06.11-02.50.15:685][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.50.15:689][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.11-02.50.15:692][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.50.15:721][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.50.15:721][ 74]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.11-02.50.15:722][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.06.11-02.50.15:724][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.06.11-02.50.15:730][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.11-02.50.15:771][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.06.11-02.50.16:958][136]LogSlateStyle: Warning: 「CoreStyle」スタイルからのリソースが存在しません。'カラー「Graph.Node.Comment.TextColor」が見つかりません'
+[2026.06.11-02.53.17:361][ 27]LogCurveEditor: Warning: CurveFloat_0 のキーは、その時点ですでにキーがあったため、移動できませんでした。
+[2026.06.11-02.53.22:317][309]LogCurveEditor: Warning: CurveFloat_0 のキーは、その時点ですでにキーがあったため、移動できませんでした。
+[2026.06.11-02.53.37:281][190]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-02.53.37:340][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.11-02.53.48:855][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.11-02.53.48:864][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-02.53.48:933][861]LogFileHelpers: Saving Map: /Game/新規フォルダ/TestLevel1
+[2026.06.11-02.53.48:933][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/TestLevel1] ([1] browsable assets)...
+[2026.06.11-02.53.48:933][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/TestLevel1]
+[2026.06.11-02.53.48:981][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.06.11-02.53.48:993][861]LogSavePackage: Moving output files for package: /Game/新規フォルダ/TestLevel1
+[2026.06.11-02.53.48:993][861]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/TestLevel195298F8E422999C4420F54B2CC04BAC4.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/TestLevel1.umap'
+[2026.06.11-02.53.49:003][861]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_MySwitchButton
+[2026.06.11-02.53.49:003][861]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-02.53.49:034][861]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-02.53.49:034][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-02.53.49:040][861]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_MySwitchButton
+[2026.06.11-02.53.49:041][861]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButtonF159388749039D947301A6B25AC18C8A.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MySwitchButton.uasset'
+[2026.06.11-02.53.49:056][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.158 ms (total: 909.202 ms)
+[2026.06.11-02.53.49:121][861]LogContentValidation: Enabled validators:
+[2026.06.11-02.53.49:121][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-02.53.49:121][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-02.53.49:121][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-02.53.49:121][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-02.53.49:121][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-02.53.49:121][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-02.53.49:121][861]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.06.11-02.53.49:121][861]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.06.11-02.53.49:121][861]AssetCheck: /Game/新規フォルダ/TestLevel1 アセットを検証しています
+[2026.06.11-02.53.49:121][861]AssetCheck: /Game/新規フォルダ/BP_MySwitchButton アセットを検証しています
+[2026.06.11-02.53.49:121][861]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.06.11-02.53.49:121][861]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.06.11-02.53.50:978][971]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.06.11-02.53.50:985][971]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.11-02.53.50:985][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.11-02.53.51:024][971]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.53.51:027][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003009s)
+[2026.06.11-02.53.51:027][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.003068s)
+[2026.06.11-02.53.51:057][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.06.11-02.53.51:061][971]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.06.11-02.53.51:062][971]LogPlayLevel: PIE: World Init took: (0.001723s)
+[2026.06.11-02.53.51:062][971]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.06.11-02.53.51:062][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.11-02.53.51:062][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.11-02.53.51:062][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.11-02.53.51:062][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.11-02.53.51:062][971]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.11-02.53.51:062][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.11-02.53.51:062][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.11-02.53.51:062][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.11-02.53.51:062][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.11-02.53.51:062][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.11-02.53.51:062][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.11-02.53.51:064][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.11-02.53.51:068][971]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.53.51:068][971]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.53.51:068][971]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.53.51:068][971]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.53.51:069][971]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.53.51:069][971]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.53.51:079][971]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.06.11-02.53.51:079][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.11-02.53.51:079][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.11-02.53.51:079][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.11-02.53.51:080][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.06.11-02.53.51:080][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.06.11-02.53.51:082][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.06.11-02.53.51:082][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.06.11-02.53.51:082][971]LogInit: FAudioDevice initialized with ID 17.
+[2026.06.11-02.53.51:082][971]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestLevel1'.
+[2026.06.11-02.53.51:082][971]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.11-02.53.51:085][971]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.06.11-02.53.51:086][971]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.06.11-11.53.51
+[2026.06.11-02.53.51:086][971]LogWorld: Bringing up level for play took: 0.001074
+[2026.06.11-02.53.51:088][971]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.06.11-02.53.51:092][971]PIE: サーバーにログインしました
+[2026.06.11-02.53.51:094][971]PIE: PIE合計開始時間 0.11 秒。
+[2026.06.11-02.53.51:136][972]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.11-02.53.59:895][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.53.59:895][491]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.53.59:895][491]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.06.11-02.53.59:895][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.53.59:899][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.11-02.53.59:903][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.53.59:931][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.53.59:931][491]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.11-02.53.59:931][491]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.06.11-02.53.59:933][491]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.06.11-02.53.59:942][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.06.11-02.53.59:981][492]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.06.11-02.55.22:543][790]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-02.55.22:601][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.06.11-02.55.27:707][ 90]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.06.11-02.55.27:712][ 90]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.11-02.55.27:712][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.11-02.55.27:734][ 90]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.55.27:737][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002962s)
+[2026.06.11-02.55.27:737][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.003005s)
+[2026.06.11-02.55.27:765][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.11-02.55.27:768][ 90]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.06.11-02.55.27:770][ 90]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2026.06.11-02.55.27:770][ 90]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.06.11-02.55.27:770][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.11-02.55.27:770][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.11-02.55.27:770][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.11-02.55.27:770][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.11-02.55.27:770][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.11-02.55.27:770][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.11-02.55.27:770][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.11-02.55.27:770][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.11-02.55.27:770][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.11-02.55.27:770][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.11-02.55.27:770][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.11-02.55.27:772][ 90]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.11-02.55.27:775][ 90]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.55.27:775][ 90]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.55.27:775][ 90]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.55.27:776][ 90]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.55.27:776][ 90]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.55.27:776][ 90]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.55.27:785][ 90]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.06.11-02.55.27:785][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.11-02.55.27:785][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.11-02.55.27:785][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.11-02.55.27:786][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.06.11-02.55.27:786][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.06.11-02.55.27:788][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.06.11-02.55.27:788][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.06.11-02.55.27:788][ 90]LogInit: FAudioDevice initialized with ID 18.
+[2026.06.11-02.55.27:788][ 90]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestLevel1'.
+[2026.06.11-02.55.27:788][ 90]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.11-02.55.27:792][ 90]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.06.11-02.55.27:793][ 90]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.06.11-11.55.27
+[2026.06.11-02.55.27:793][ 90]LogWorld: Bringing up level for play took: 0.001103
+[2026.06.11-02.55.27:796][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.06.11-02.55.27:799][ 90]PIE: サーバーにログインしました
+[2026.06.11-02.55.27:801][ 90]PIE: PIE合計開始時間 0.088 秒。
+[2026.06.11-02.55.27:840][ 91]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.11-02.55.33:865][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.55.33:865][447]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.55.33:865][447]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.06.11-02.55.33:865][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.55.33:869][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.11-02.55.33:873][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.55.33:902][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.55.33:902][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.11-02.55.33:902][447]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.06.11-02.55.33:906][447]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.06.11-02.55.33:912][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.06.11-02.55.33:970][448]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.06.11-02.56.22:620][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8543.887695
+[2026.06.11-02.56.23:621][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-02.56.23:621][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8544.555664, Update Interval: 337.012238
+[2026.06.11-02.56.51:031][347]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-02.56.51:089][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.06.11-02.56.55:982][636]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.06.11-02.56.55:989][636]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.11-02.56.55:989][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.11-02.56.55:990][636]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.56.55:992][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003125s)
+[2026.06.11-02.56.55:992][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.003166s)
+[2026.06.11-02.56.56:021][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.06.11-02.56.56:025][636]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.06.11-02.56.56:027][636]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2026.06.11-02.56.56:027][636]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.06.11-02.56.56:027][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.11-02.56.56:027][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.11-02.56.56:027][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.11-02.56.56:027][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.11-02.56.56:027][636]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.11-02.56.56:027][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.11-02.56.56:027][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.11-02.56.56:027][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.11-02.56.56:027][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.11-02.56.56:027][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.11-02.56.56:027][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.11-02.56.56:028][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.11-02.56.56:030][636]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.56.56:031][636]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.56.56:031][636]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.56.56:031][636]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.56.56:031][636]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.06.11-02.56.56:033][636]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.06.11-02.56.56:042][636]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.06.11-02.56.56:042][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.11-02.56.56:042][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.11-02.56.56:042][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.11-02.56.56:043][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.06.11-02.56.56:043][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.06.11-02.56.56:045][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.06.11-02.56.56:045][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.06.11-02.56.56:045][636]LogInit: FAudioDevice initialized with ID 19.
+[2026.06.11-02.56.56:045][636]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestLevel1'.
+[2026.06.11-02.56.56:045][636]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.11-02.56.56:049][636]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.06.11-02.56.56:051][636]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.06.11-11.56.56
+[2026.06.11-02.56.56:051][636]LogWorld: Bringing up level for play took: 0.001154
+[2026.06.11-02.56.56:052][636]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.06.11-02.56.56:056][636]PIE: サーバーにログインしました
+[2026.06.11-02.56.56:058][636]PIE: PIE合計開始時間 0.069 秒。
+[2026.06.11-02.56.56:096][637]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.11-02.57.13:354][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.57.13:354][669]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.06.11-02.57.13:354][669]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.06.11-02.57.13:355][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.57.13:358][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.11-02.57.13:362][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.11-02.57.13:392][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.11-02.57.13:392][669]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.11-02.57.13:392][669]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.06.11-02.57.13:394][669]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.06.11-02.57.13:399][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.11-02.57.13:401][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.06.11-02.57.13:460][670]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.06.11-02.57.49:072][978]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.06.11-02.57.49:128][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.06.11-03.02.44:717][ 46]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8925.776367
+[2026.06.11-03.02.44:967][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-03.02.44:967][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8926.009766, Update Interval: 322.616058
+[2026.06.11-03.04.21:418][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.06.11-03.04.21:426][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/TestLevel1] ([1] browsable assets)...
+[2026.06.11-03.04.21:426][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/TestLevel1]
+[2026.06.11-03.04.21:434][729]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/TestLevel1_Auto8
+[2026.06.11-03.04.21:434][729]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/TestLevel1_Auto8578D6FBD4E4EE487B74D8280BDFDBF1E.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/TestLevel1_Auto8.umap'
+[2026.06.11-03.04.21:436][729]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.051
+[2026.06.11-03.04.21:436][729]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2026.06.11-03.04.21:436][729]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-03.04.21:486][729]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-03.04.21:486][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-03.04.21:492][729]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto8
+[2026.06.11-03.04.21:492][729]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto810431B644CA1E25417DE2C95609D384B.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto8.uasset'
+[2026.06.11-03.04.21:492][729]LogFileHelpers: Auto-saving content packages took 0.056
