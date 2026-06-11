@@ -3534,3 +3534,49 @@ Samplers Used: 0
 [2026.06.11-03.25.17:113][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2026.06.11-03.26.34:399][120]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_mydoor.BP_mydoor'
 [2026.06.11-03.26.34:460][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.06.11-03.27.10:386][499]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10390.730469
+[2026.06.11-03.27.10:636][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-03.27.10:636][514]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10390.964844, Update Interval: 346.034119
+[2026.06.11-03.27.21:171][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.06.11-03.27.21:175][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.033
+[2026.06.11-03.27.21:175][125]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.06.11-03.27.21:205][125]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor]
+[2026.06.11-03.27.21:206][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.06.11-03.27.21:214][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_mydoor_Auto0
+[2026.06.11-03.27.21:214][125]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoor_Auto0CC5BE53C4FC6A4B7D5964594C8C8A8B7.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_mydoor_Auto0.uasset'
+[2026.06.11-03.27.21:214][125]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-03.27.21:220][125]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.06.11-03.27.21:221][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-03.27.21:226][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto0
+[2026.06.11-03.27.21:226][125]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto0CB6AF3094DBF122CEA481CA7EB6688AD.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto0.uasset'
+[2026.06.11-03.27.21:227][125]LogFileHelpers: Auto-saving content packages took 0.052
+[2026.06.11-03.33.41:295][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10781.333984
+[2026.06.11-03.33.41:545][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.11-03.33.41:545][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10781.567383, Update Interval: 347.123627
+[2026.06.11-03.34.49:512][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.06.11-03.34.49:519][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.11-03.34.49:577][649]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_mydoor
+[2026.06.11-03.34.49:577][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.06.11-03.34.49:577][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.06.11-03.34.49:577][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/BP_mydoor" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_mydoor.uasset" SILENT=true
+[2026.06.11-03.34.49:584][649]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_mydoor
+[2026.06.11-03.34.49:584][649]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoorD391DB934E8B05B0F560ACBFC9179769.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_mydoor.uasset'
+[2026.06.11-03.34.49:585][649]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_MySwitchButton
+[2026.06.11-03.34.49:585][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.06.11-03.34.49:585][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.06.11-03.34.49:590][649]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_MySwitchButton
+[2026.06.11-03.34.49:591][649]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButtonA26A548E4A7C890993BD3193F35D1E08.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MySwitchButton.uasset'
+[2026.06.11-03.34.49:605][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.002 ms (total: 1.24 sec)
+[2026.06.11-03.34.49:670][649]LogContentValidation: Enabled validators:
+[2026.06.11-03.34.49:670][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.11-03.34.49:670][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.11-03.34.49:670][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.11-03.34.49:670][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.11-03.34.49:670][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.11-03.34.49:670][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.11-03.34.49:670][649]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.06.11-03.34.49:670][649]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.06.11-03.34.49:670][649]AssetCheck: /Game/新規フォルダ/BP_mydoor アセットを検証しています
+[2026.06.11-03.34.49:670][649]AssetCheck: /Game/新規フォルダ/BP_MySwitchButton アセットを検証しています
+[2026.06.11-03.34.49:670][649]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.06.11-03.34.49:670][649]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
