@@ -2096,3 +2096,276 @@ Samplers Used: 0
 [2026.07.02-01.53.41:798][888]AssetCheck: /Game/新規フォルダ/BP_mydoor アセットを検証しています
 [2026.07.02-01.53.41:798][888]LogContentValidation: バリデーターによって検証された 1 アセット数
 [2026.07.02-01.53.41:798][888]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.07.02-01.57.30:997][905]LogSlate: Took 0.003643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.07.02-01.57.32:294][982]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.07.02-01.57.32:294][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-01.57.32:344][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.07.02-01.57.36:240][211]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.07.02-01.57.36:240][211]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.07.02-01.57.36:240][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-01.57.36:295][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.07.02-01.57.36:312][211]LogSlate: Took 0.001299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.07.02-01.57.38:390][333]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.07.02-01.57.38:390][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-01.57.38:395][333]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.07.02-01.57.38:395][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-01.57.38:436][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.07.02-01.57.42:168][556]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.07.02-01.57.42:168][556]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.07.02-01.57.42:168][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-01.57.42:217][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.07.02-01.58.21:339][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4637.235352
+[2026.07.02-01.58.22:340][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.02-01.58.22:340][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4637.901367, Update Interval: 353.475769
+[2026.07.02-01.59.55:345][634]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.07.02-01.59.55:399][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.07.02-02.05.00:427][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5036.387207
+[2026.07.02-02.05.00:661][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.02-02.05.00:661][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5036.604980, Update Interval: 344.246948
+[2026.07.02-02.10.39:668][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.07.02-02.10.39:673][963]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.034
+[2026.07.02-02.10.39:673][963]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.07.02-02.10.39:709][963]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.07.02-02.10.39:709][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.07.02-02.10.39:715][963]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto7
+[2026.07.02-02.10.39:715][963]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto70CF5E5D741313CAC8FE89DB5A5305D44.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto7.uasset'
+[2026.07.02-02.10.39:715][963]LogFileHelpers: Auto-saving content packages took 0.043
+[2026.07.02-02.11.23:437][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5419.402832
+[2026.07.02-02.11.23:671][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.02-02.11.23:671][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5419.618164, Update Interval: 354.902191
+[2026.07.02-02.13.04:003][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton_C
+[2026.07.02-02.13.04:003][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton_C
+[2026.07.02-02.13.04:004][384]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton as actor: BP_MySwitchButton_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_MySwitchButton_C_0
+[2026.07.02-02.13.04:006][384]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton as actor: BP_MySwitchButton_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_MySwitchButton_C_0
+[2026.07.02-02.13.04:036][386]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.07.02-02.13.04:586][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.07.02-02.13.04:594][416]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.07.02-02.13.04:602][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton_C
+[2026.07.02-02.13.04:602][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton_C
+[2026.07.02-02.13.04:604][416]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton as actor: BP_MySwitchButton_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_MySwitchButton_C_2
+[2026.07.02-02.13.04:605][416]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton as actor: BP_MySwitchButton_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_MySwitchButton_C_2
+[2026.07.02-02.13.17:740][198]Cmd: DELETE
+[2026.07.02-02.13.17:740][198]Cmd: ACTOR DELETE
+[2026.07.02-02.13.17:744][198]LogEditorActor: Deleted Actor: BP_MySwitchButton_C
+[2026.07.02-02.13.17:771][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.07.02-02.13.17:774][198]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.07.02-02.14.12:605][618]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.07.02-02.14.12:657][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.07.02-02.14.18:913][986]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.07.02-02.14.18:914][986]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.07.02-02.14.35:918][536]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.07.02-02.14.35:919][536]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.07.02-02.14.41:425][860]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.07.02-02.14.41:434][860]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.07.02-02.14.41:434][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.02-02.14.41:435][860]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.07.02-02.14.41:437][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002926s)
+[2026.07.02-02.14.41:437][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.002969s)
+[2026.07.02-02.14.41:465][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.02-02.14.41:471][860]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.02-02.14.41:472][860]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2026.07.02-02.14.41:472][860]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.07.02-02.14.41:472][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.02-02.14.41:473][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.02-02.14.41:473][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.02-02.14.41:473][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.02-02.14.41:473][860]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.02-02.14.41:473][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.02-02.14.41:473][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.02-02.14.41:473][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.02-02.14.41:473][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.02-02.14.41:473][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.02-02.14.41:473][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.02-02.14.41:475][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.02-02.14.41:477][860]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.14.41:477][860]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.14.41:477][860]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.14.41:478][860]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.14.41:478][860]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.14.41:478][860]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.14.41:489][860]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.07.02-02.14.41:489][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.02-02.14.41:489][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.02-02.14.41:489][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.02-02.14.41:490][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.07.02-02.14.41:490][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.07.02-02.14.41:492][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.07.02-02.14.41:492][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.07.02-02.14.41:492][860]LogInit: FAudioDevice initialized with ID 10.
+[2026.07.02-02.14.41:492][860]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestLevel1'.
+[2026.07.02-02.14.41:492][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.07.02-02.14.41:496][860]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.07.02-02.14.41:497][860]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.07.02-11.14.41
+[2026.07.02-02.14.41:497][860]LogWorld: Bringing up level for play took: 0.001103
+[2026.07.02-02.14.41:499][860]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.07.02-02.14.41:503][860]PIE: サーバーにログインしました
+[2026.07.02-02.14.41:504][860]PIE: PIE合計開始時間 0.074 秒。
+[2026.07.02-02.14.41:545][861]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.02-02.14.46:151][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.02-02.14.46:151][132]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.07.02-02.14.46:151][132]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.02-02.14.46:151][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-02.14.46:157][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.02-02.14.46:161][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-02.14.46:188][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.02-02.14.46:188][132]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.07.02-02.14.46:188][132]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.07.02-02.14.46:190][132]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.07.02-02.14.46:195][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.02-02.14.46:198][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.07.02-02.14.46:226][133]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.07.02-02.14.55:500][688]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.07.02-02.14.55:507][688]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.07.02-02.14.55:507][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.02-02.14.55:507][688]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.07.02-02.14.55:509][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003051s)
+[2026.07.02-02.14.55:509][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.003086s)
+[2026.07.02-02.14.55:535][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.07.02-02.14.55:537][688]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.02-02.14.55:539][688]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2026.07.02-02.14.55:539][688]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.07.02-02.14.55:539][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.02-02.14.55:539][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.02-02.14.55:539][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.02-02.14.55:539][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.02-02.14.55:539][688]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.02-02.14.55:539][688]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.02-02.14.55:539][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.02-02.14.55:539][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.02-02.14.55:539][688]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.02-02.14.55:539][688]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.02-02.14.55:539][688]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.02-02.14.55:541][688]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.02-02.14.55:543][688]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.14.55:543][688]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.14.55:543][688]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.14.55:543][688]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.14.55:543][688]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.14.55:544][688]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.14.55:554][688]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.07.02-02.14.55:554][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.02-02.14.55:554][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.02-02.14.55:554][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.02-02.14.55:554][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.07.02-02.14.55:554][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.07.02-02.14.55:557][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.07.02-02.14.55:557][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.07.02-02.14.55:557][688]LogInit: FAudioDevice initialized with ID 11.
+[2026.07.02-02.14.55:557][688]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestLevel1'.
+[2026.07.02-02.14.55:557][688]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.07.02-02.14.55:560][688]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.07.02-02.14.55:561][688]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.07.02-11.14.55
+[2026.07.02-02.14.55:561][688]LogWorld: Bringing up level for play took: 0.001107
+[2026.07.02-02.14.55:563][688]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.07.02-02.14.55:566][688]PIE: サーバーにログインしました
+[2026.07.02-02.14.55:567][688]PIE: PIE合計開始時間 0.061 秒。
+[2026.07.02-02.14.55:613][689]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.02-02.15.21:601][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.02-02.15.21:601][243]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.07.02-02.15.21:601][243]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.02-02.15.21:601][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-02.15.21:605][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.02-02.15.21:609][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-02.15.21:633][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.02-02.15.21:634][243]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.07.02-02.15.21:634][243]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.07.02-02.15.21:636][243]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.07.02-02.15.21:642][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.07.02-02.15.21:692][245]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.07.02-02.15.44:348][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_mydoor.BP_mydoor_C
+[2026.07.02-02.15.44:348][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_mydoor.BP_mydoor_C
+[2026.07.02-02.15.44:349][742]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor as actor: BP_mydoor_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_mydoor_C_0
+[2026.07.02-02.15.44:351][742]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor as actor: BP_mydoor_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_mydoor_C_0
+[2026.07.02-02.15.45:591][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.07.02-02.15.45:594][813]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.07.02-02.15.45:600][813]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_mydoor.BP_mydoor_C
+[2026.07.02-02.15.45:600][813]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/新規フォルダ/BP_mydoor.BP_mydoor_C
+[2026.07.02-02.15.45:601][813]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor as actor: BP_mydoor_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_mydoor_C_3
+[2026.07.02-02.15.45:602][813]LogActorFactory: Actor Factory spawned Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor as actor: BP_mydoor_C /Game/新規フォルダ/TestLevel1.TestLevel1:PersistentLevel.BP_mydoor_C_3
+[2026.07.02-02.15.57:187][500]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.07.02-02.15.57:189][500]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.07.02-02.15.59:956][662]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2026.07.02-02.15.59:961][662]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.07.02-02.15.59:961][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.02-02.15.59:962][662]LogPlayLevel: Creating play world package: /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.07.02-02.15.59:965][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003190s)
+[2026.07.02-02.15.59:965][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/新規フォルダ/TestLevel1.TestLevel1 to /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 (0.003225s)
+[2026.07.02-02.15.59:992][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.07.02-02.15.59:995][662]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.02-02.15.59:997][662]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2026.07.02-02.15.59:997][662]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.07.02-02.15.59:997][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.02-02.15.59:997][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.02-02.15.59:997][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.02-02.15.59:997][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.02-02.15.59:997][662]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.02-02.15.59:997][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.02-02.15.59:997][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.02-02.15.59:997][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.02-02.15.59:997][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.02-02.15.59:997][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.02-02.15.59:997][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.02-02.15.59:999][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.02-02.16.00:001][662]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.16.00:001][662]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.16.00:001][662]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.16.00:001][662]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.16.00:002][662]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.07.02-02.16.00:002][662]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.07.02-02.16.00:013][662]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.07.02-02.16.00:013][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.02-02.16.00:013][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.02-02.16.00:013][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.02-02.16.00:013][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.07.02-02.16.00:013][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.07.02-02.16.00:016][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.07.02-02.16.00:016][662]LogInit: FAudioDevice initialized with ID 12.
+[2026.07.02-02.16.00:016][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.07.02-02.16.00:016][662]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestLevel1'.
+[2026.07.02-02.16.00:016][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.07.02-02.16.00:020][662]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.07.02-02.16.00:021][662]LogWorld: Bringing World /Game/新規フォルダ/UEDPIE_0_TestLevel1.TestLevel1 up for play (max tick rate 60) at 2026.07.02-11.16.00
+[2026.07.02-02.16.00:021][662]LogWorld: Bringing up level for play took: 0.001192
+[2026.07.02-02.16.00:023][662]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.07.02-02.16.00:027][662]PIE: サーバーにログインしました
+[2026.07.02-02.16.00:028][662]PIE: PIE合計開始時間 0.067 秒。
+[2026.07.02-02.16.00:069][663]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.02-02.16.19:580][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.02-02.16.19:580][828]LogWorld: BeginTearingDown for /Game/新規フォルダ/UEDPIE_0_TestLevel1
+[2026.07.02-02.16.19:580][828]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.02-02.16.19:580][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-02.16.19:585][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.02-02.16.19:588][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.02-02.16.19:616][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.02-02.16.19:617][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.07.02-02.16.19:617][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.07.02-02.16.19:620][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.07.02-02.16.19:623][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.02-02.16.19:625][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.07.02-02.16.19:653][829]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.07.02-02.16.30:686][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.02-02.16.30:749][489]LogFileHelpers: Saving Map: /Game/新規フォルダ/TestLevel1
+[2026.07.02-02.16.30:749][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/TestLevel1] ([1] browsable assets)...
+[2026.07.02-02.16.30:749][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/TestLevel1]
+[2026.07.02-02.16.30:799][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.07.02-02.16.30:810][489]LogSavePackage: Moving output files for package: /Game/新規フォルダ/TestLevel1
+[2026.07.02-02.16.30:810][489]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/TestLevel1FAE88BF646EDBE80D6AD5B8259385C4D.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/TestLevel1.umap'
+[2026.07.02-02.16.30:829][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.396 ms (total: 490.353 ms)
+[2026.07.02-02.16.30:887][489]LogContentValidation: Enabled validators:
+[2026.07.02-02.16.30:887][489]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.02-02.16.30:887][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.02-02.16.30:887][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.02-02.16.30:887][489]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.02-02.16.30:887][489]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.02-02.16.30:887][489]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.02-02.16.30:887][489]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.07.02-02.16.30:887][489]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.07.02-02.16.30:887][489]AssetCheck: /Game/新規フォルダ/TestLevel1 アセットを検証しています
+[2026.07.02-02.16.30:887][489]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.07.02-02.16.30:887][489]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
