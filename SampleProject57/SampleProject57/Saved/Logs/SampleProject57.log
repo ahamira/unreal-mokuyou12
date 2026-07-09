@@ -1811,3 +1811,323 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.09-01.13.16:018][613]AssetCheck: /Game/新規フォルダ/TestLevel1 アセットを検証しています
 [2026.07.09-01.13.16:018][613]LogContentValidation: バリデーターによって検証された 1 アセット数
 [2026.07.09-01.13.16:018][613]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.07.09-01.15.29:615][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2132.877197
+[2026.07.09-01.15.30:616][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-01.15.30:616][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2133.543213, Update Interval: 304.171265
+[2026.07.09-01.15.48:767][404]LogSlate: Window '親クラスを選択' being destroyed
+[2026.07.09-01.15.48:781][404]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.07.09-01.15.48:787][404]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.07.09-01.15.48:802][405]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.07.09-01.15.56:243][852]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MyEventBase
+[2026.07.09-01.15.56:251][852]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.07.09-01.16.01:438][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.07.09-01.16.01:636][146]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.07.09-01.16.01:640][146]LogSlate: Took 0.004301 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.07.09-01.16.03:058][146]LogSlate: Window 'Delete Assets' being destroyed
+[2026.07.09-01.16.03:104][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.07.09-01.16.03:139][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.07.09-01.16.03:173][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.07.09-01.16.04:296][207]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.09-01.16.04:299][207]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_MyEventBesa.BP_MyEventBesa
+[2026.07.09-01.17.06:417][400]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-01.17.06:417][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-01.17.06:508][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.07.09-01.17.09:184][551]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton
+[2026.07.09-01.17.11:407][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey
+[2026.07.09-01.18.34:158][780]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey from Actor to BP_MyEventBesa_C...
+[2026.07.09-01.18.34:176][780]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_Mykey.BP_Mykey'
+[2026.07.09-01.18.34:264][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.07.09-01.18.49:117][655]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton from Actor to BP_MyEventBesa_C...
+[2026.07.09-01.18.49:135][655]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.07.09-01.18.49:196][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.09-01.19.00:956][345]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor from Actor to BP_MyEventBesa_C...
+[2026.07.09-01.19.00:978][345]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_mydoor.BP_mydoor'
+[2026.07.09-01.19.01:044][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.07.09-01.19.47:095][204]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2026.07.09-01.19.47:105][204]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2026.07.09-01.19.47:126][205]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2026.07.09-01.19.56:014][739]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> EN_MyEventStatus
+[2026.07.09-01.19.56:019][739]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2026.07.09-01.19.59:424][938]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/新規フォルダ/EN_MyEventStatus.EN_MyEventStatus
+[2026.07.09-01.21.29:227][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2492.501221
+[2026.07.09-01.21.29:510][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-01.21.29:510][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2492.768799, Update Interval: 352.620636
+[2026.07.09-01.22.16:373][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.09-01.22.16:435][522]LogFileHelpers: Saving Package: /Game/新規フォルダ/EN_MyEventStatus
+[2026.07.09-01.22.16:435][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/EN_MyEventStatus] ([1] browsable assets)...
+[2026.07.09-01.22.16:435][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/EN_MyEventStatus]
+[2026.07.09-01.22.16:437][522]LogSavePackage: Moving output files for package: /Game/新規フォルダ/EN_MyEventStatus
+[2026.07.09-01.22.16:437][522]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/EN_MyEventStatusA4AE94FD457E7C0416AD289E41FB09C5.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/EN_MyEventStatus.uasset'
+[2026.07.09-01.22.16:448][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.348 ms (total: 219.196 ms)
+[2026.07.09-01.22.16:503][522]LogContentValidation: Enabled validators:
+[2026.07.09-01.22.16:503][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.09-01.22.16:503][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.09-01.22.16:503][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.09-01.22.16:503][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.09-01.22.16:503][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.09-01.22.16:503][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.09-01.22.16:503][522]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.07.09-01.22.16:503][522]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.07.09-01.22.16:503][522]AssetCheck: /Game/新規フォルダ/EN_MyEventStatus アセットを検証しています
+[2026.07.09-01.22.16:503][522]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.07.09-01.22.16:503][522]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.07.09-01.22.16:526][522]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.09-01.23.23:507][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.07.09-01.23.23:509][775]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.065
+[2026.07.09-01.23.23:510][775]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.07.09-01.23.23:633][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor]
+[2026.07.09-01.23.23:633][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.07.09-01.23.23:641][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_mydoor_Auto2
+[2026.07.09-01.23.23:642][775]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoor_Auto278E885404218D45F7F2638949097406C.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_mydoor_Auto2.uasset'
+[2026.07.09-01.23.23:644][775]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.07.09-01.23.23:665][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.07.09-01.23.23:665][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.07.09-01.23.23:672][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_Mykey_Auto2
+[2026.07.09-01.23.23:672][775]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey_Auto2D3CB79044F457B8B6DA71B8B8D8BCE78.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_Mykey_Auto2.uasset'
+[2026.07.09-01.23.23:673][775]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.07.09-01.23.23:694][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.07.09-01.23.23:694][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.07.09-01.23.23:699][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto2
+[2026.07.09-01.23.23:699][775]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto21133DBD74A8153057D6B13AA3E7E8C67.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto2.uasset'
+[2026.07.09-01.23.23:700][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.07.09-01.23.23:729][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.07.09-01.23.23:730][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.07.09-01.23.23:751][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto2
+[2026.07.09-01.23.23:751][775]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto201BFBFEB458E7C3D874CBAA87C9766E4.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto2.uasset'
+[2026.07.09-01.23.23:751][775]LogFileHelpers: Auto-saving content packages took 0.242
+[2026.07.09-01.23.49:480][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.09-01.23.49:540][ 92]LogFileHelpers: Saving Package: /Game/新規フォルダ/EN_MyEventStatus
+[2026.07.09-01.23.49:540][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/EN_MyEventStatus] ([1] browsable assets)...
+[2026.07.09-01.23.49:540][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/EN_MyEventStatus]
+[2026.07.09-01.23.49:542][ 92]LogSavePackage: Moving output files for package: /Game/新規フォルダ/EN_MyEventStatus
+[2026.07.09-01.23.49:542][ 92]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/EN_MyEventStatus6295064A40C8191F5D99709B8F93419E.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/EN_MyEventStatus.uasset'
+[2026.07.09-01.23.49:550][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.144 ms (total: 289.341 ms)
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: Enabled validators:
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.07.09-01.23.49:617][ 92]AssetCheck: /Game/新規フォルダ/EN_MyEventStatus アセットを検証しています
+[2026.07.09-01.23.49:617][ 92]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.07.09-01.23.49:617][ 92]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.07.09-01.24.02:419][841]LogSlate: Took 0.001933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.07.09-01.24.36:764][461]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter'
+[2026.07.09-01.24.36:857][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.07.09-01.27.58:129][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2881.400879
+[2026.07.09-01.27.59:463][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-01.27.59:463][939]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2882.400391, Update Interval: 328.459106
+[2026.07.09-01.33.23:946][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.07.09-01.33.23:951][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.049
+[2026.07.09-01.33.23:951][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.07.09-01.33.24:076][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.07.09-01.33.24:076][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.07.09-01.33.24:096][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto3
+[2026.07.09-01.33.24:096][912]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto328F4E4B5484290B06883209CF944710D.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto3.uasset'
+[2026.07.09-01.33.24:096][912]LogFileHelpers: Auto-saving content packages took 0.146
+[2026.07.09-01.34.05:859][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3249.124023
+[2026.07.09-01.34.06:859][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-01.34.06:859][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3249.791504, Update Interval: 358.884857
+[2026.07.09-01.36.21:406][978]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-01.36.21:407][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-01.36.21:428][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_MyEventBesa.BP_MyEventBesa
+[2026.07.09-01.36.22:228][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.09-01.37.52:223][314]LogSlate: Window '親クラスを選択' being destroyed
+[2026.07.09-01.37.52:237][314]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.07.09-01.37.52:251][314]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.07.09-01.37.52:268][315]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.07.09-01.37.55:577][514]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2026.07.09-01.37.55:583][514]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.07.09-01.37.56:502][562]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/NewBlueprint.NewBlueprint
+[2026.07.09-01.38.10:517][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.07.09-01.38.13:216][318]LogSlate: Window 'Delete Assets' being destroyed
+[2026.07.09-01.38.13:328][318]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-01.38.13:329][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-01.38.13:361][318]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/新規フォルダ/NewBlueprint.NewBlueprint
+	Asset Type: Blueprint
+[2026.07.09-01.38.13:691][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.07.09-01.38.13:731][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.07.09-01.38.13:767][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.07.09-01.38.13:811][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.07.09-01.39.07:457][695]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.07.09-01.39.07:457][695]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-01.39.07:457][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-01.39.07:532][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.07.09-01.39.12:585][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_MyEventBesa.BP_MyEventBesa
+[2026.07.09-01.39.20:022][381]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.07.09-01.39.20:022][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.09-01.39.20:106][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.07.09-01.39.39:270][405]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2026.07.09-01.39.39:280][405]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2026.07.09-01.39.39:299][406]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2026.07.09-01.39.42:454][596]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> NewUserDefinedEnum
+[2026.07.09-01.39.42:455][596]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2026.07.09-01.39.45:374][767]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> NewUserDefinedEnum
+[2026.07.09-01.39.46:376][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.07.09-01.39.47:535][824]LogSlate: Window 'Delete Assets' being destroyed
+[2026.07.09-01.39.47:583][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.07.09-01.39.47:618][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.07.09-01.39.47:653][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.07.09-01.39.50:458][989]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/新規フォルダ/EN_MyEventStatus.EN_MyEventStatus
+[2026.07.09-01.40.11:118][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/新規フォルダ/BP_MyEventBesa.BP_MyEventBesa
+[2026.07.09-01.40.37:048][684]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyEventBesa.BP_MyEventBesa'
+[2026.07.09-01.40.37:167][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.07.09-01.40.41:649][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3644.895996
+[2026.07.09-01.40.41:882][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-01.40.41:882][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3645.112549, Update Interval: 309.974060
+[2026.07.09-01.41.20:295][220]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 5BF41E764C8775FF515FBC9D0C404992 (172.22.81.17:62772)
+[2026.07.09-01.41.49:604][806]LogDerivedDataCache: C:/Users/ktc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.09-01.43.20:044][525]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyEventBesa.BP_MyEventBesa'
+[2026.07.09-01.43.20:057][525]LogBlueprint: Warning: [AssetLog] C:\Users\ktc\Documents\unreal-mokuyou12\SampleProject57\SampleProject57\Content\新規フォルダ\BP_MyEventBesa.uasset：[コンパイラ] Event Status  のデフォルト値 'False' を解析できません。プロパティ:EventStatus.
+[2026.07.09-01.43.20:131][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.07.09-01.44.29:756][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.07.09-01.44.29:762][127]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.047
+[2026.07.09-01.44.29:762][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.07.09-01.44.29:794][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor]
+[2026.07.09-01.44.29:794][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.07.09-01.44.29:803][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_mydoor_Auto4
+[2026.07.09-01.44.29:803][127]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoor_Auto4DE8E14C6453013A07C34C98415E346CF.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_mydoor_Auto4.uasset'
+[2026.07.09-01.44.29:806][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.07.09-01.44.29:813][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.07.09-01.44.29:813][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.07.09-01.44.29:820][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_Mykey_Auto4
+[2026.07.09-01.44.29:820][127]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey_Auto4FB8362274774087CCE6AF489C3A564FE.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_Mykey_Auto4.uasset'
+[2026.07.09-01.44.29:821][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.07.09-01.44.29:826][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.07.09-01.44.29:826][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.07.09-01.44.29:833][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto4
+[2026.07.09-01.44.29:833][127]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto4F0A4B442482144326DF6EDABBE626394.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto4.uasset'
+[2026.07.09-01.44.29:834][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/BP_MyEventBesa] ([2] browsable assets)...
+[2026.07.09-01.44.29:834][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyEventBesa]
+[2026.07.09-01.44.29:838][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyEventBesa_Auto4
+[2026.07.09-01.44.29:838][127]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyEventBesa_Auto46508BF4F4F402CDBBE3C398293B00077.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyEventBesa_Auto4.uasset'
+[2026.07.09-01.44.29:838][127]LogFileHelpers: Auto-saving content packages took 0.076
+[2026.07.09-01.46.23:637][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3986.893066
+[2026.07.09-01.46.23:871][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-01.46.23:872][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3987.110107, Update Interval: 323.564575
+[2026.07.09-01.52.38:483][ 50]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4361.646973
+[2026.07.09-01.52.38:716][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-01.52.38:716][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4361.862793, Update Interval: 315.123138
+[2026.07.09-01.57.10:170][ 27]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_mydoor.BP_mydoor'
+[2026.07.09-01.57.10:251][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.07.09-01.57.35:635][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.07.09-01.57.35:639][227]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.039
+[2026.07.09-01.57.35:639][227]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.07.09-01.57.35:761][227]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor]
+[2026.07.09-01.57.35:761][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.07.09-01.57.35:770][227]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_mydoor_Auto5
+[2026.07.09-01.57.35:770][227]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoor_Auto5465F701F4DC17550BE03A7949711F186.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_mydoor_Auto5.uasset'
+[2026.07.09-01.57.35:771][227]LogFileHelpers: Auto-saving content packages took 0.133
+[2026.07.09-01.58.33:886][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4716.980469
+[2026.07.09-01.58.34:886][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-01.58.34:886][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4717.647461, Update Interval: 309.551086
+[2026.07.09-02.04.27:269][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5070.373047
+[2026.07.09-02.04.28:270][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-02.04.28:270][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5071.041016, Update Interval: 356.874298
+[2026.07.09-02.11.11:913][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5475.033203
+[2026.07.09-02.11.12:913][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-02.11.12:915][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5475.700195, Update Interval: 315.925171
+[2026.07.09-02.11.51:322][ 10]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_mydoor.BP_mydoor'
+[2026.07.09-02.11.51:409][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.07.09-02.13.24:807][ 50]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_Mykey.BP_Mykey'
+[2026.07.09-02.13.24:878][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.07.09-02.14.12:783][237]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_Mykey.BP_Mykey'
+[2026.07.09-02.14.12:848][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.07.09-02.17.07:783][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5830.838379
+[2026.07.09-02.17.08:070][161]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-02.17.08:070][161]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5831.111328, Update Interval: 328.565338
+[2026.07.09-02.17.36:949][578]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.07.09-02.17.37:014][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.07.09-02.18.19:859][623]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton'
+[2026.07.09-02.18.19:933][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.07.09-02.18.47:397][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.07.09-02.18.47:399][980]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.041
+[2026.07.09-02.18.47:400][980]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.07.09-02.18.47:522][980]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor]
+[2026.07.09-02.18.47:522][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.07.09-02.18.47:532][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_mydoor_Auto6
+[2026.07.09-02.18.47:532][980]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoor_Auto64978E5AA486499FD112386935D513CA5.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_mydoor_Auto6.uasset'
+[2026.07.09-02.18.47:533][980]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.07.09-02.18.47:557][980]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.07.09-02.18.47:558][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.07.09-02.18.47:566][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_Mykey_Auto6
+[2026.07.09-02.18.47:566][980]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey_Auto65D65637F4ADF6562F7F089BC804E0AC8.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_Mykey_Auto6.uasset'
+[2026.07.09-02.18.47:566][980]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.07.09-02.18.47:586][980]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.07.09-02.18.47:586][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.07.09-02.18.47:594][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto6
+[2026.07.09-02.18.47:594][980]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButton_Auto67DA6814A422D990BADE20EAC870A6D88.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MySwitchButton_Auto6.uasset'
+[2026.07.09-02.18.47:594][980]LogFileHelpers: Auto-saving content packages took 0.195
+[2026.07.09-02.23.36:359][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6219.406250
+[2026.07.09-02.23.37:692][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-02.23.37:692][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6220.405273, Update Interval: 357.388824
+[2026.07.09-02.30.17:079][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6620.123535
+[2026.07.09-02.30.18:079][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.09-02.30.18:079][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6620.791016, Update Interval: 313.812073
+[2026.07.09-02.31.21:213][634]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyEventBesa.BP_MyEventBesa'
+[2026.07.09-02.31.21:319][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.07.09-02.34.24:677][229]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyEventBesa.BP_MyEventBesa'
+[2026.07.09-02.34.24:775][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.07.09-02.34.51:439][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.07.09-02.34.51:442][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.045
+[2026.07.09-02.34.51:442][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/BP_MyEventBesa] ([2] browsable assets)...
+[2026.07.09-02.34.51:442][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyEventBesa]
+[2026.07.09-02.34.51:447][427]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyEventBesa_Auto7
+[2026.07.09-02.34.51:447][427]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyEventBesa_Auto725DB3F224A9E9767EDDE7AB14E6E285C.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyEventBesa_Auto7.uasset'
+[2026.07.09-02.34.51:448][427]LogFileHelpers: Auto-saving content packages took 0.005
+[2026.07.09-02.35.28:372][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.07.09-02.35.28:377][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.09-02.35.28:443][619]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_mydoor
+[2026.07.09-02.35.28:443][619]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.07.09-02.35.28:474][619]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor]
+[2026.07.09-02.35.28:474][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.07.09-02.35.28:474][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/BP_mydoor" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_mydoor.uasset" SILENT=true
+[2026.07.09-02.35.28:484][619]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_mydoor
+[2026.07.09-02.35.28:484][619]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoor4EC640684552EA8C41E01EA3B52822C7.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_mydoor.uasset'
+[2026.07.09-02.35.28:485][619]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_Mykey
+[2026.07.09-02.35.28:485][619]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.07.09-02.35.28:491][619]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.07.09-02.35.28:491][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.07.09-02.35.28:491][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/BP_Mykey" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_Mykey.uasset" SILENT=true
+[2026.07.09-02.35.28:497][619]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_Mykey
+[2026.07.09-02.35.28:498][619]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey436BE776427D606BDE4C699959B6E3CB.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_Mykey.uasset'
+[2026.07.09-02.35.28:498][619]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_MySwitchButton
+[2026.07.09-02.35.28:498][619]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_MySwitchButton] ([2] browsable assets)...
+[2026.07.09-02.35.28:505][619]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MySwitchButton.BP_MySwitchButton]
+[2026.07.09-02.35.28:505][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MySwitchButton]
+[2026.07.09-02.35.28:511][619]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_MySwitchButton
+[2026.07.09-02.35.28:512][619]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MySwitchButtonCF6D41E24D49EFCD277B67AF5CCB6B58.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MySwitchButton.uasset'
+[2026.07.09-02.35.28:512][619]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_MyTestCharacter
+[2026.07.09-02.35.28:512][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.07.09-02.35.28:519][619]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.07.09-02.35.28:519][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.07.09-02.35.28:540][619]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_MyTestCharacter
+[2026.07.09-02.35.28:540][619]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacterDB24D4214B2A0A2BF4BF079FCFD62C4B.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MyTestCharacter.uasset'
+[2026.07.09-02.35.28:541][619]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_MyEventBesa
+[2026.07.09-02.35.28:541][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/BP_MyEventBesa] ([2] browsable assets)...
+[2026.07.09-02.35.28:541][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyEventBesa]
+[2026.07.09-02.35.28:541][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/BP_MyEventBesa" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MyEventBesa.uasset" SILENT=true
+[2026.07.09-02.35.28:545][619]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_MyEventBesa
+[2026.07.09-02.35.28:546][619]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyEventBesaAE25276843259BF91A8FC6B9B52FE5D1.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MyEventBesa.uasset'
+[2026.07.09-02.35.28:556][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.799 ms (total: 469.140 ms)
+[2026.07.09-02.35.28:630][619]LogContentValidation: Enabled validators:
+[2026.07.09-02.35.28:631][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.09-02.35.28:631][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.09-02.35.28:631][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.09-02.35.28:631][619]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.09-02.35.28:631][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.09-02.35.28:631][619]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.09-02.35.28:631][619]LogContentValidation: Display: Starting to validate 5 assets (0 associated objects such as actors)
+[2026.07.09-02.35.28:631][619]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.07.09-02.35.28:631][619]AssetCheck: /Game/新規フォルダ/BP_mydoor アセットを検証しています
+[2026.07.09-02.35.28:631][619]AssetCheck: /Game/新規フォルダ/BP_Mykey アセットを検証しています
+[2026.07.09-02.35.28:631][619]AssetCheck: /Game/新規フォルダ/BP_MySwitchButton アセットを検証しています
+[2026.07.09-02.35.28:631][619]AssetCheck: /Game/新規フォルダ/BP_MyTestCharacter アセットを検証しています
+[2026.07.09-02.35.28:631][619]AssetCheck: /Game/新規フォルダ/BP_MyEventBesa アセットを検証しています
+[2026.07.09-02.35.28:631][619]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.07.09-02.35.28:631][619]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 5
+[2026.07.09-02.35.28:660][619]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/SourceControl/UncontrolledChangelists.json
