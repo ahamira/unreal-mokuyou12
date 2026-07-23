@@ -2721,3 +2721,125 @@ Script call stack:
 [2026.07.23-01.40.41:980][827]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
 [2026.07.23-01.40.41:987][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2026.07.23-01.40.42:026][828]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.07.23-01.45.57:483][782]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4428.901367
+[2026.07.23-01.45.57:733][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-01.45.57:733][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4429.135742, Update Interval: 329.517517
+[2026.07.23-01.46.30:613][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.07.23-01.46.30:617][664]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.055
+[2026.07.23-01.46.30:617][664]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.07.23-01.46.30:650][664]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor]
+[2026.07.23-01.46.30:650][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.07.23-01.46.30:661][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_mydoor_Auto4
+[2026.07.23-01.46.30:661][664]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoor_Auto4F3690F2344A6635C164A4194D14DF5FB.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_mydoor_Auto4.uasset'
+[2026.07.23-01.46.30:661][664]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.07.23-01.46.30:668][664]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.07.23-01.46.30:668][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.07.23-01.46.30:690][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto4
+[2026.07.23-01.46.30:690][664]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto4AD830D2249C678A90F8799BE51ECFF91.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto4.uasset'
+[2026.07.23-01.46.30:691][664]LogFileHelpers: Auto-saving content packages took 0.073
+[2026.07.23-01.50.27:439][537]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.23-01.52.20:756][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4812.119629
+[2026.07.23-01.52.20:993][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-01.52.20:993][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4812.339355, Update Interval: 342.225403
+[2026.07.23-01.56.57:419][989]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_My1GameInstance.BP_My1GameInstance'
+[2026.07.23-01.56.57:486][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.07.23-01.58.43:723][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5194.969727
+[2026.07.23-01.58.43:956][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-01.58.43:956][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5195.186523, Update Interval: 313.821228
+[2026.07.23-02.04.49:841][793]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5561.034180
+[2026.07.23-02.04.50:091][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-02.04.50:092][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5561.268066, Update Interval: 326.913666
+[2026.07.23-02.11.12:096][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.07.23-02.11.12:098][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.053
+[2026.07.23-02.11.12:099][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.07.23-02.11.12:130][780]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.07.23-02.11.12:130][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.07.23-02.11.12:155][780]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto5
+[2026.07.23-02.11.12:155][780]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto57550B6D847371CC853060C949F55D39F.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto5.uasset'
+[2026.07.23-02.11.12:156][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/BP_My1GameInstance] ([2] browsable assets)...
+[2026.07.23-02.11.12:156][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_My1GameInstance]
+[2026.07.23-02.11.12:161][780]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_My1GameInstance_Auto5
+[2026.07.23-02.11.12:161][780]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_My1GameInstance_Auto51EE4CA764651556A8093E68F5CDEB294.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_My1GameInstance_Auto5.uasset'
+[2026.07.23-02.11.12:162][780]LogFileHelpers: Auto-saving content packages took 0.063
+[2026.07.23-02.11.12:912][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5944.030762
+[2026.07.23-02.11.13:144][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-02.11.13:145][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5944.246582, Update Interval: 346.319763
+[2026.07.23-02.15.34:931][262]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/新規フォルダ/ST_MyKeyStatus.ST_MyKeyStatus
+[2026.07.23-02.17.01:045][120]LogBlueprint: Warning: [BP_MyTestCharacter] 警告:境界ノード 'KeyStatas' 上のピン '(null)' がコンポジットノード 'Default__EdGraphSchema_K2' で見つかりませんでした
+[2026.07.23-02.17.01:046][120]LogBlueprint: Warning: [BP_MyTestCharacter] 警告:境界ノード 'KeyName' 上のピン '(null)' がコンポジットノード 'Default__EdGraphSchema_K2' で見つかりませんでした
+[2026.07.23-02.17.04:033][292]LogEditorTransaction: Undo ノードを展開
+[2026.07.23-02.17.10:708][664]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter'
+[2026.07.23-02.17.10:835][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.07.23-02.17.26:054][461]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2026.07.23-02.17.27:852][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.07.23-02.17.27:861][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.23-02.17.27:921][559]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_mydoor
+[2026.07.23-02.17.27:921][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_mydoor] ([2] browsable assets)...
+[2026.07.23-02.17.27:952][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_mydoor.BP_mydoor]
+[2026.07.23-02.17.27:952][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_mydoor]
+[2026.07.23-02.17.27:952][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/新規フォルダ/BP_mydoor" FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_mydoor.uasset" SILENT=true
+[2026.07.23-02.17.27:962][559]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_mydoor
+[2026.07.23-02.17.27:962][559]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_mydoor29D73E27406650EFEE4616AAC0E36416.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_mydoor.uasset'
+[2026.07.23-02.17.27:963][559]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_MyTestCharacter
+[2026.07.23-02.17.27:964][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.07.23-02.17.27:970][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.07.23-02.17.27:970][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.07.23-02.17.27:993][559]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_MyTestCharacter
+[2026.07.23-02.17.27:994][559]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter0541DBF8411490D838602CBE4AB4E34F.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_MyTestCharacter.uasset'
+[2026.07.23-02.17.27:994][559]LogFileHelpers: Saving Package: /Game/新規フォルダ/BP_My1GameInstance
+[2026.07.23-02.17.27:994][559]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/新規フォルダ/BP_My1GameInstance] ([2] browsable assets)...
+[2026.07.23-02.17.27:994][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_My1GameInstance]
+[2026.07.23-02.17.27:999][559]LogSavePackage: Moving output files for package: /Game/新規フォルダ/BP_My1GameInstance
+[2026.07.23-02.17.28:000][559]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_My1GameInstanceAB379CB7475C3FFA8692EE8351AE65C3.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/BP_My1GameInstance.uasset'
+[2026.07.23-02.17.28:012][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.656 ms (total: 568.270 ms)
+[2026.07.23-02.17.28:080][559]LogContentValidation: Enabled validators:
+[2026.07.23-02.17.28:080][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.23-02.17.28:080][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.23-02.17.28:080][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.23-02.17.28:080][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.23-02.17.28:080][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.23-02.17.28:080][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.23-02.17.28:080][559]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.07.23-02.17.28:080][559]LogContentValidation: バリデーターによって追加された 0 追加アセット
+[2026.07.23-02.17.28:080][559]AssetCheck: /Game/新規フォルダ/BP_mydoor アセットを検証しています
+[2026.07.23-02.17.28:080][559]AssetCheck: /Game/新規フォルダ/BP_MyTestCharacter アセットを検証しています
+[2026.07.23-02.17.28:080][559]AssetCheck: /Game/新規フォルダ/BP_My1GameInstance アセットを検証しています
+[2026.07.23-02.17.28:080][559]LogContentValidation: バリデーターによって検証された 1 アセット数
+[2026.07.23-02.17.28:081][559]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.07.23-02.17.36:489][958]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6327.560547
+[2026.07.23-02.17.36:740][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-02.17.36:740][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6327.795410, Update Interval: 322.594086
+[2026.07.23-02.17.41:802][264]LogSlate: Took 0.003661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.07.23-02.18.19:001][433]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter'
+[2026.07.23-02.18.19:095][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.07.23-02.23.08:763][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.07.23-02.23.08:766][902]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.048
+[2026.07.23-02.23.08:766][902]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.07.23-02.23.08:890][902]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.07.23-02.23.08:890][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.07.23-02.23.08:896][902]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_Mykey_Auto6
+[2026.07.23-02.23.08:898][902]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey_Auto684F7F685431ACEB8264900A044DCA7F5.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_Mykey_Auto6.uasset'
+[2026.07.23-02.23.08:898][902]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/新規フォルダ/BP_MyTestCharacter] ([2] browsable assets)...
+[2026.07.23-02.23.08:926][902]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_MyTestCharacter.BP_MyTestCharacter]
+[2026.07.23-02.23.08:926][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_MyTestCharacter]
+[2026.07.23-02.23.08:950][902]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto6
+[2026.07.23-02.23.08:950][902]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_MyTestCharacter_Auto6B1C81E40444AF87DA021C88E1658CCA8.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_MyTestCharacter_Auto6.uasset'
+[2026.07.23-02.23.08:950][902]LogFileHelpers: Auto-saving content packages took 0.185
+[2026.07.23-02.23.42:005][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6693.000977
+[2026.07.23-02.23.43:005][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-02.23.43:005][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6693.666992, Update Interval: 310.495911
+[2026.07.23-02.29.32:319][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7043.307129
+[2026.07.23-02.29.32:570][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-02.29.32:570][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7043.540527, Update Interval: 335.618774
+[2026.07.23-02.33.44:737][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.07.23-02.33.44:745][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.059
+[2026.07.23-02.33.44:745][531]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/BP_Mykey] ([2] browsable assets)...
+[2026.07.23-02.33.44:779][531]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/新規フォルダ/BP_Mykey.BP_Mykey]
+[2026.07.23-02.33.44:779][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/BP_Mykey]
+[2026.07.23-02.33.44:787][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/BP_Mykey_Auto7
+[2026.07.23-02.33.44:787][531]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/BP_Mykey_Auto77D96E9BE4F71A9088D00C7B2FA8A5786.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/BP_Mykey_Auto7.uasset'
+[2026.07.23-02.33.44:788][531]LogFileHelpers: Auto-saving content packages took 0.042
+[2026.07.23-02.34.01:266][511]LogDerivedDataCache: C:/Users/ktc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.23-02.36.07:897][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7438.803711
+[2026.07.23-02.36.08:149][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.23-02.36.08:149][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7439.037109, Update Interval: 338.339783
