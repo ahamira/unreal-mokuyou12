@@ -3688,3 +3688,590 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.30-02.00.43:324][706]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5443.194824
 [2026.07.30-02.00.44:324][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.07.30-02.00.44:324][709]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5443.861328, Update Interval: 338.048645
+[2026.07.30-02.07.09:374][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5829.249023
+[2026.07.30-02.07.10:374][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.07.10:374][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5829.916504, Update Interval: 351.371796
+[2026.07.30-02.13.43:767][ 46]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6223.645508
+[2026.07.30-02.13.44:767][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.13.44:767][ 49]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6224.312500, Update Interval: 322.150940
+[2026.07.30-02.15.12:777][313]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.07.30-02.19.23:799][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.07.30-02.19.46:721][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.07.30-02.19.46:723][833]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.30-02.19.46:748][833]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.07.30-02.19.46:749][833]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.07.30-02.19.46:749][833]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.07.30-02.19.46:749][833]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.07.30-02.19.46:811][833]LogStaticMesh: Display: スタティックメッシュをビルド中 SM_Template_Map_Floor (推定必須メモリ：0.159396 MB)...
+[2026.07.30-02.19.46:812][833]LogStaticMesh: Display: スタティックメッシュをビルド中 SM_Cube (推定必須メモリ：0.026302 MB)...
+[2026.07.30-02.19.46:812][833]LogStaticMesh: Display: スタティックメッシュをビルド中 SM_Ramp (推定必須メモリ：0.020414 MB)...
+[2026.07.30-02.19.46:813][833]LogStaticMesh: Display: スタティックメッシュをビルド中 SM_Cylinder (推定必須メモリ：4.310633 MB)...
+[2026.07.30-02.19.46:813][833]LogStaticMesh: Display: スタティックメッシュをビルド中 SM_QuarterCylinder (推定必須メモリ：1.183525 MB)...
+[2026.07.30-02.19.46:815][833]LogStaticMesh: Built static mesh [0.02s] /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 2
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Adjacency [0.00s], tris: 8, UVs 2
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Leaves [0.00s]
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Leaves [0.00s]
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Reduce [0.00s]
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Reduce [0.00s]
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Fallback [0.00s], num tris: 8
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Fallback [0.00s], num tris: 8
+[2026.07.30-02.19.46:816][833]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.07.30-02.19.46:817][833]LogStaticMesh: ConstrainClusters:
+[2026.07.30-02.19.46:817][833]LogStaticMesh: ConstrainClusters:
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Input: 1 Clusters, 8 Triangles and 18 Vertices
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Output without splits: 1 Clusters, 8 Triangles and 18 Vertices
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Output with splits: 1 Clusters, 8 Triangles and 18 Vertices
+[2026.07.30-02.19.46:817][833]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.07.30-02.19.46:817][833]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.07.30-02.19.46:817][833]LogStaticMesh: WritePages:
+[2026.07.30-02.19.46:817][833]LogStaticMesh: WritePages:
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Root: GPU size: 416 bytes. 1 Pages. 416.000 bytes per page (1.270% utilization).
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Streaming: 0 bytes.
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Page data disk size: 592 bytes. Fixup data size: 56 bytes.
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Total GPU size: 416 bytes, Total disk size: 648 bytes.
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Root: GPU size: 500 bytes. 1 Pages. 500.000 bytes per page (1.526% utilization).
+[2026.07.30-02.19.46:817][833]LogStaticMesh: Encode [0.00s]
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Streaming: 0 bytes.
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Page data disk size: 688 bytes. Fixup data size: 56 bytes.
+[2026.07.30-02.19.46:817][833]LogStaticMesh:   Total GPU size: 500 bytes, Total disk size: 744 bytes.
+[2026.07.30-02.19.46:817][833]LogStaticMesh: Encode [0.00s]
+[2026.07.30-02.19.46:817][833]LogStaticMesh: NaniteBuild [0.00s]
+[2026.07.30-02.19.46:817][833]LogStaticMesh: NaniteBuild [0.00s]
+[2026.07.30-02.19.46:819][833]LogStaticMesh: Adjacency [0.00s], tris: 768, UVs 2
+[2026.07.30-02.19.46:819][833]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2026.07.30-02.19.46:820][833]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2026.07.30-02.19.46:821][833]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2026.07.30-02.19.46:821][833]LogStaticMesh: Leaves [0.00s]
+[2026.07.30-02.19.46:827][833]LogStaticMesh: Adjacency [0.00s], tris: 2812, UVs 2
+[2026.07.30-02.19.46:830][833]LogStaticMesh: Clustering [0.00s]. Ratio: 1.090909
+[2026.07.30-02.19.46:830][833]LogStaticMesh: Leaves [0.00s]
+[2026.07.30-02.19.46:848][833]LogStaticMesh: Reduce [0.03s]
+[2026.07.30-02.19.46:849][833]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.07.30-02.19.46:849][833]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.07.30-02.19.46:850][833]LogStaticMesh: ConstrainClusters:
+[2026.07.30-02.19.46:850][833]LogStaticMesh:   Input: 14 Clusters, 1524 Triangles and 1245 Vertices
+[2026.07.30-02.19.46:850][833]LogStaticMesh:   Output without splits: 14 Clusters, 1524 Triangles and 1249 Vertices
+[2026.07.30-02.19.46:850][833]LogStaticMesh:   Output with splits: 14 Clusters, 1524 Triangles and 1249 Vertices
+[2026.07.30-02.19.46:850][833]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.07.30-02.19.46:850][833]LogStaticMesh: WritePages:
+[2026.07.30-02.19.46:850][833]LogStaticMesh:   Root: GPU size: 21216 bytes. 1 Pages. 21216.000 bytes per page (64.746% utilization).
+[2026.07.30-02.19.46:850][833]LogStaticMesh:   Streaming: 0 bytes.
+[2026.07.30-02.19.46:850][833]LogStaticMesh:   Page data disk size: 16204 bytes. Fixup data size: 152 bytes.
+[2026.07.30-02.19.46:850][833]LogStaticMesh:   Total GPU size: 21216 bytes, Total disk size: 16356 bytes.
+[2026.07.30-02.19.46:850][833]LogStaticMesh: Encode [0.00s]
+[2026.07.30-02.19.46:850][833]LogStaticMesh: NaniteBuild [0.03s]
+[2026.07.30-02.19.46:866][833]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2026.07.30-02.19.46:883][833]LogWorldPartition: Display: WorldPartition initialize took 133.948 ms
+[2026.07.30-02.19.46:886][833]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.07.30-02.19.46:886][833]Cmd: MAP LOAD FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/ThirdPerson/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.07.30-02.19.46:905][833]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.19.46:906][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.19.46:933][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.30-02.19.46:938][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.07.30-02.19.46:941][833]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.19.46:942][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.19.46:942][833]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.07.30-02.19.46:946][833]LogStaticMesh: Reduce [0.12s]
+[2026.07.30-02.19.46:946][833]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.07.30-02.19.46:947][833]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.07.30-02.19.46:947][833]LogStaticMesh: ConstrainClusters:
+[2026.07.30-02.19.46:947][833]LogStaticMesh:   Input: 47 Clusters, 5710 Triangles and 4599 Vertices
+[2026.07.30-02.19.46:947][833]LogStaticMesh:   Output without splits: 47 Clusters, 5710 Triangles and 4696 Vertices
+[2026.07.30-02.19.46:947][833]LogStaticMesh:   Output with splits: 47 Clusters, 5710 Triangles and 4696 Vertices
+[2026.07.30-02.19.46:947][833]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 47, Slow Path Clusters: 0, 1 Material: 47, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.07.30-02.19.46:950][833]LogStaticMesh: WritePages:
+[2026.07.30-02.19.46:950][833]LogStaticMesh:   Root: GPU size: 32056 bytes. 1 Pages. 32056.000 bytes per page (97.827% utilization).
+[2026.07.30-02.19.46:950][833]LogStaticMesh:   Streaming: GPU size: 47040 bytes. 1 Pages (1 with relative encoding). 47040.000 bytes per page (35.889% utilization).
+[2026.07.30-02.19.46:950][833]LogStaticMesh:   Page data disk size: 60568 bytes. Fixup data size: 303 bytes.
+[2026.07.30-02.19.46:950][833]LogStaticMesh:   Total GPU size: 79096 bytes, Total disk size: 60871 bytes.
+[2026.07.30-02.19.46:950][833]LogStaticMesh: Encode [0.00s]
+[2026.07.30-02.19.46:950][833]LogStaticMesh: NaniteBuild [0.12s]
+[2026.07.30-02.19.46:971][833]LogStaticMesh: Built static mesh [0.16s] /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2026.07.30-02.19.46:973][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.07.30-02.19.47:001][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.07.30-02.19.47:005][833]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2026.07.30-02.19.47:005][833]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.07.30-02.19.47:008][833]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.07.30-02.19.47:008][833]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.07.30-02.19.47:008][833]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.07.30-02.19.47:024][833]LogWorldPartition: Display: WorldPartition initialize took 16.297 ms (total: 150.245 ms)
+[2026.07.30-02.19.47:038][833]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.30-02.19.47:067][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.07.30-02.19.47:076][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.30-02.19.47:077][833]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.952ミリ秒かかりました。
+[2026.07.30-02.19.47:533][834]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.19.48:022][835]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.30-02.19.54:515][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.07.30-02.19.54:518][189]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.30-02.19.54:525][189]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.30-02.19.54:533][189]LogAssetEditorSubsystem: Opening Asset editor for World /Game/新規フォルダ/TestLevel1.TestLevel1
+[2026.07.30-02.19.54:533][189]Cmd: MAP LOAD FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/TestLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.07.30-02.19.54:549][189]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.19.54:549][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.19.54:549][189]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.07.30-02.19.54:584][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.30-02.19.54:588][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.07.30-02.19.54:590][189]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.19.54:590][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.19.54:617][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.07.30-02.19.54:707][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.07.30-02.19.54:713][189]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel1'.
+[2026.07.30-02.19.54:713][189]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.30-02.19.54:734][189]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.30-02.19.54:765][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.07.30-02.19.54:774][189]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.30-02.19.54:774][189]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.053ミリ秒かかりました。
+[2026.07.30-02.19.54:874][190]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.19.55:136][191]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.30-02.19.55:249][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6595.115723
+[2026.07.30-02.19.55:501][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.19.55:501][205]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6595.350586, Update Interval: 348.628815
+[2026.07.30-02.20.00:082][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.07.30-02.20.00:086][473]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.30-02.20.00:291][473]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_DoorFrame (推定必須メモリ：0.048486 MB)...
+[2026.07.30-02.20.00:297][473]LogStaticMesh: Built static mesh [0.01s] /Game/Project/Assets/Meshes/STM_DoorFrame.STM_DoorFrame
+[2026.07.30-02.20.00:298][473]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_DeadObject (推定必須メモリ：0.02492 MB)...
+[2026.07.30-02.20.00:302][473]LogStaticMesh: Built static mesh [0.01s] /Game/Project/Assets/Meshes/STM_DeadObject.STM_DeadObject
+[2026.07.30-02.20.00:304][473]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_Door (推定必須メモリ：0.02492 MB)...
+[2026.07.30-02.20.00:310][473]LogStaticMesh: Built static mesh [0.01s] /Game/Project/Assets/Meshes/STM_Door.STM_Door
+[2026.07.30-02.20.00:311][473]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_Key (推定必須メモリ：0.07109 MB)...
+[2026.07.30-02.20.00:315][473]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_Button (推定必須メモリ：0.02492 MB)...
+[2026.07.30-02.20.00:316][473]LogStaticMesh: Built static mesh [0.01s] /Game/Project/Assets/Meshes/STM_Key.STM_Key
+[2026.07.30-02.20.00:319][473]LogStaticMesh: Built static mesh [0.01s] /Game/Project/Assets/Meshes/STM_Button.STM_Button
+[2026.07.30-02.20.00:321][473]LogStaticMesh: Display: スタティックメッシュをビルド中 STM_ButtonFrame (推定必須メモリ：0.054921 MB)...
+[2026.07.30-02.20.00:326][473]LogStaticMesh: Built static mesh [0.01s] /Game/Project/Assets/Meshes/STM_ButtonFrame.STM_ButtonFrame
+[2026.07.30-02.20.00:361][473]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd (Required Memory Estimate: 22.26 MB)
+[2026.07.30-02.20.00:367][473]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd (Required Memory Estimate: 15.57 MB)
+[2026.07.30-02.20.00:378][473]LogChaosDD: Creating Chaos Debug Draw Scene for world SampleGame_1
+[2026.07.30-02.20.00:378][473]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd (Required Memory Estimate: 27.35 MB)
+[2026.07.30-02.20.00:383][473]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Project/Levels/SampleGame_1.SampleGame_1
+[2026.07.30-02.20.00:383][473]Cmd: MAP LOAD FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/Project/Levels/SampleGame_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.07.30-02.20.00:384][473]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd (Required Memory Estimate: 25.91 MB)
+[2026.07.30-02.20.00:412][473]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.00:412][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.00:456][473]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace (Required Memory Estimate: 1.53 MB)
+[2026.07.30-02.20.00:464][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.30-02.20.00:468][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2026.07.30-02.20.00:468][473]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land (Required Memory Estimate: 13.18 MB)
+[2026.07.30-02.20.00:477][473]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace, at AnimationSequence/5311d8f77873980cff3b83f85a435b1c269ef59a
+[2026.07.30-02.20.00:523][473]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle (Required Memory Estimate: 62.71 MB)
+[2026.07.30-02.20.00:544][473]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd, at AnimationSequence/a9b81d71e64b9d39a1ae27bb57157d238a99da12
+[2026.07.30-02.20.00:599][473]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd, at AnimationSequence/f7e2c31583d977999ed51c9fcfc7b2632483281f
+[2026.07.30-02.20.00:643][473]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land, at AnimationSequence/c0ad76fffdd917fb6029a9079b484c5d36ce6ab9
+[2026.07.30-02.20.00:661][473]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd, at AnimationSequence/3e33fec3045f075060786088a6a0098b031dc8ec
+[2026.07.30-02.20.00:717][473]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd, at AnimationSequence/e15417eea1f3278160859536951bf2a046bbf24c
+[2026.07.30-02.20.01:026][473]LogWorld: UWorld::CleanupWorld for SampleGame_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.01:026][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.01:033][473]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle, at AnimationSequence/73dd9dea219d9c2b6dec456a5a0a764ed9313654
+[2026.07.30-02.20.01:055][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.07.30-02.20.01:082][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.07.30-02.20.01:087][473]LogAudio: Display: Audio Device (ID: 1) registered with world 'SampleGame_1'.
+[2026.07.30-02.20.01:087][473]LogChaosDD: Creating Chaos Debug Draw Scene for world SampleGame_1
+[2026.07.30-02.20.01:103][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.30-02.20.01:133][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.07.30-02.20.01:141][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.30-02.20.01:141][473]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.053ミリ秒かかりました。
+[2026.07.30-02.20.01:239][475]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.20.01:534][475]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.30-02.20.05:129][674]LogDebuggerCommands: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2026.07.30-02.20.05:135][674]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.07.30-02.20.05:135][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.30-02.20.05:135][674]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_SampleGame_1
+[2026.07.30-02.20.05:139][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003498s)
+[2026.07.30-02.20.05:139][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/SampleGame_1.SampleGame_1 to /Game/Project/Levels/UEDPIE_0_SampleGame_1.SampleGame_1 (0.003610s)
+[2026.07.30-02.20.05:166][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.07.30-02.20.05:168][674]LogChaosDD: Creating Chaos Debug Draw Scene for world SampleGame_1
+[2026.07.30-02.20.05:169][674]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2026.07.30-02.20.05:169][674]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.07.30-02.20.05:169][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.30-02.20.05:169][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.30-02.20.05:169][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.30-02.20.05:169][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.30-02.20.05:169][674]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.30-02.20.05:169][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.30-02.20.05:169][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.30-02.20.05:169][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.30-02.20.05:169][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.30-02.20.05:169][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.30-02.20.05:169][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.30-02.20.05:172][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.30-02.20.05:175][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.20.05:175][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.20.05:175][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.20.05:176][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.20.05:176][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.20.05:176][674]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.20.05:187][674]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.07.30-02.20.05:188][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.30-02.20.05:188][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.30-02.20.05:188][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.30-02.20.05:188][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.07.30-02.20.05:188][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.07.30-02.20.05:191][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.07.30-02.20.05:191][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.07.30-02.20.05:191][674]LogInit: FAudioDevice initialized with ID 29.
+[2026.07.30-02.20.05:191][674]LogAudio: Display: Audio Device (ID: 29) registered with world 'SampleGame_1'.
+[2026.07.30-02.20.05:191][674]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.07.30-02.20.05:242][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.30-02.20.05:243][674]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.07.30-02.20.05:244][674]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_SampleGame_1.SampleGame_1 up for play (max tick rate 60) at 2026.07.30-11.20.05
+[2026.07.30-02.20.05:244][674]LogWorld: Bringing up level for play took: 0.001613
+[2026.07.30-02.20.05:247][674]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.07.30-02.20.05:255][674]PIE: サーバーにログインしました
+[2026.07.30-02.20.05:259][674]PIE: PIE合計開始時間 0.124 秒。
+[2026.07.30-02.20.05:318][675]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.20.18:117][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.30-02.20.18:117][437]LogWorld: BeginTearingDown for /Game/Project/Levels/UEDPIE_0_SampleGame_1
+[2026.07.30-02.20.18:118][437]LogSlate: Window 'SampleProject57 プレビュー [NetMode: Standalone 0]  (64-ビット/PC D3D SM6)' being destroyed
+[2026.07.30-02.20.18:125][437]LogWorld: UWorld::CleanupWorld for SampleGame_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.18:126][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.18:126][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.30-02.20.18:131][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.18:159][437]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.07.30-02.20.18:159][437]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.07.30-02.20.18:162][437]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.07.30-02.20.18:169][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.07.30-02.20.18:195][438]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.07.30-02.20.19:536][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.07.30-02.20.19:538][514]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.30-02.20.19:541][514]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.07.30-02.20.19:545][514]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Project/Levels/TestLevel.TestLevel
+[2026.07.30-02.20.19:546][514]Cmd: MAP LOAD FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/Project/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.07.30-02.20.19:588][514]LogWorld: UWorld::CleanupWorld for SampleGame_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.19:588][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.19:616][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.30-02.20.19:618][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.07.30-02.20.19:620][514]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.19:620][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.19:648][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.07.30-02.20.19:739][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.07.30-02.20.19:743][514]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2026.07.30-02.20.19:743][514]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.07.30-02.20.19:757][514]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.30-02.20.19:785][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.07.30-02.20.19:794][514]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.30-02.20.19:794][514]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.05ミリ秒かかりました。
+[2026.07.30-02.20.19:890][515]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.20.20:551][539]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.30-02.20.24:699][777]LogDebuggerCommands: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2026.07.30-02.20.24:704][777]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.07.30-02.20.24:704][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.30-02.20.24:704][777]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_TestLevel
+[2026.07.30-02.20.24:707][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002702s)
+[2026.07.30-02.20.24:707][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/TestLevel.TestLevel to /Game/Project/Levels/UEDPIE_0_TestLevel.TestLevel (0.002737s)
+[2026.07.30-02.20.24:735][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.07.30-02.20.24:736][777]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2026.07.30-02.20.24:737][777]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2026.07.30-02.20.24:737][777]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.07.30-02.20.24:737][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.30-02.20.24:737][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.30-02.20.24:737][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.30-02.20.24:737][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.30-02.20.24:737][777]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.30-02.20.24:737][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.30-02.20.24:737][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.30-02.20.24:737][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.30-02.20.24:737][777]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.30-02.20.24:737][777]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.30-02.20.24:737][777]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.30-02.20.24:739][777]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.30-02.20.24:742][777]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.20.24:742][777]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.20.24:742][777]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.20.24:742][777]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.20.24:743][777]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.20.24:743][777]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.20.24:752][777]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.07.30-02.20.24:753][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.30-02.20.24:753][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.30-02.20.24:753][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.30-02.20.24:753][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2026.07.30-02.20.24:753][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.07.30-02.20.24:756][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.07.30-02.20.24:756][777]LogInit: FAudioDevice initialized with ID 30.
+[2026.07.30-02.20.24:756][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2026.07.30-02.20.24:756][777]LogAudio: Display: Audio Device (ID: 30) registered with world 'TestLevel'.
+[2026.07.30-02.20.24:756][777]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.07.30-02.20.24:795][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.30-02.20.24:795][777]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.07.30-02.20.24:796][777]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2026.07.30-11.20.24
+[2026.07.30-02.20.24:796][777]LogWorld: Bringing up level for play took: 0.001059
+[2026.07.30-02.20.24:799][777]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.07.30-02.20.24:806][777]PIE: サーバーにログインしました
+[2026.07.30-02.20.24:810][777]PIE: PIE合計開始時間 0.106 秒。
+[2026.07.30-02.20.24:865][778]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.20.32:947][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.30-02.20.32:947][257]LogWorld: BeginTearingDown for /Game/Project/Levels/UEDPIE_0_TestLevel
+[2026.07.30-02.20.32:947][257]LogSlate: Window 'SampleProject57 プレビュー [NetMode: Standalone 0]  (64-ビット/PC D3D SM6)' being destroyed
+[2026.07.30-02.20.32:959][257]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.32:959][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.32:960][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.30-02.20.32:965][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.32:991][257]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.07.30-02.20.32:992][257]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2026.07.30-02.20.32:994][257]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2026.07.30-02.20.32:999][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.07.30-02.20.33:023][258]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.07.30-02.20.38:197][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.07.30-02.20.38:200][553]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.30-02.20.38:204][553]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.30-02.20.38:212][553]LogAssetEditorSubsystem: Opening Asset editor for World /Game/新規フォルダ/TestLevel1.TestLevel1
+[2026.07.30-02.20.38:212][553]Cmd: MAP LOAD FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/TestLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.07.30-02.20.38:228][553]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.38:228][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.38:256][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.30-02.20.38:258][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.07.30-02.20.38:261][553]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.38:261][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.38:291][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.07.30-02.20.38:378][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.07.30-02.20.38:383][553]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel1'.
+[2026.07.30-02.20.38:384][553]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.30-02.20.38:403][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.30-02.20.38:431][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.07.30-02.20.38:440][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.30-02.20.38:440][553]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.056ミリ秒かかりました。
+[2026.07.30-02.20.38:535][554]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.20.38:788][555]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.30-02.20.49:677][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.07.30-02.20.49:679][190]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.30-02.20.49:683][190]LogChaosDD: Creating Chaos Debug Draw Scene for world SampleGame_1
+[2026.07.30-02.20.49:688][190]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Project/Levels/SampleGame_1.SampleGame_1
+[2026.07.30-02.20.49:688][190]Cmd: MAP LOAD FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/Project/Levels/SampleGame_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.07.30-02.20.49:703][190]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.49:704][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.49:733][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.30-02.20.49:736][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.07.30-02.20.49:738][190]LogWorld: UWorld::CleanupWorld for SampleGame_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.20.49:739][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.20.49:767][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.07.30-02.20.49:858][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.07.30-02.20.49:864][190]LogAudio: Display: Audio Device (ID: 1) registered with world 'SampleGame_1'.
+[2026.07.30-02.20.49:864][190]LogChaosDD: Creating Chaos Debug Draw Scene for world SampleGame_1
+[2026.07.30-02.20.49:878][190]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.30-02.20.49:906][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.07.30-02.20.49:915][190]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.30-02.20.49:915][190]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.054ミリ秒かかりました。
+[2026.07.30-02.20.49:987][192]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.20.50:789][226]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: ================================================
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Total job queries 433, among them cache hits 36 (8.31%), DDC hits 278 (64.20%), Duplicates 50 (11.55%)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Tracking 347 distinct input hashes that result in 260 distinct outputs (74.93%)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: RAM used: 3.37 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Shaders Compiled: 69
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Jobs assigned 69, completed 69 (100%)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Average time worker was idle: 1387.95 s
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.77 s
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Job execution time: average 0.49 s, max 1.18 s
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Job life time (pending + execution): average 0.64 s, max 1.39
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Shader code size: total 583.781 KiB, numShaders 74, average 7.889 KiB, min 1.727 KiB, max 23.996 KiB
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.10 s
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Average processing rate: 11.31 jobs/sec
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Total thread time: 18.991 s
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Total thread preprocess time: 7.841 s
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Percentage time preprocessing: 41.29%
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Effective parallelization: 3.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.259448
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 0.52 sec, max 0.53 sec, min 0.51 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   16 times, average 0.50 sec, max 0.61 sec, min 0.40 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> (compiled    3 times, average 0.22 sec, max 0.23 sec, min 0.21 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 0.20 sec, max 0.27 sec, min 0.14 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 42.44% of total time (compiled   16 times, average 0.50 sec, max 0.61 sec, min 0.40 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.01% of total time (compiled   14 times, average 0.20 sec, max 0.27 sec, min 0.14 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.19% of total time (compiled   16 times, average 0.17 sec, max 0.23 sec, min 0.11 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                                                 FLumenCardCS - 5.48% of total time (compiled    2 times, average 0.52 sec, max 0.53 sec, min 0.51 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.15% of total time (compiled    6 times, average 0.13 sec, max 0.16 sec, min 0.11 sec)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: === Material stats ===
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Materials Translated:    154
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Material Translation Only: 0.04 s (32%)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Material DDC Serialization Only: -0.00 s (0%)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: Material Cache Hits: 1 (1%)
+[2026.07.30-02.21.06:474][152]LogShaderCompilers: Display: ================================================
+[2026.07.30-02.21.15:900][713]LogDebuggerCommands: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2026.07.30-02.21.15:906][713]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.07.30-02.21.15:906][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.30-02.21.15:906][713]LogPlayLevel: Creating play world package: /Game/Project/Levels/UEDPIE_0_SampleGame_1
+[2026.07.30-02.21.15:909][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003740s)
+[2026.07.30-02.21.15:910][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Levels/SampleGame_1.SampleGame_1 to /Game/Project/Levels/UEDPIE_0_SampleGame_1.SampleGame_1 (0.003783s)
+[2026.07.30-02.21.15:938][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.07.30-02.21.15:940][713]LogChaosDD: Creating Chaos Debug Draw Scene for world SampleGame_1
+[2026.07.30-02.21.15:942][713]LogPlayLevel: PIE: World Init took: (0.001633s)
+[2026.07.30-02.21.15:942][713]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.07.30-02.21.15:942][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.30-02.21.15:942][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.30-02.21.15:942][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.30-02.21.15:942][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.30-02.21.15:942][713]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.30-02.21.15:942][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.30-02.21.15:942][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.30-02.21.15:942][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.30-02.21.15:942][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.30-02.21.15:942][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.30-02.21.15:942][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.30-02.21.15:944][713]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.30-02.21.15:947][713]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.21.15:947][713]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.21.15:949][713]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.21.15:949][713]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.21.15:949][713]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='スピーカー (Senary Audio)'
+[2026.07.30-02.21.15:950][713]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='マイク配列 (Senary Audio)'
+[2026.07.30-02.21.15:959][713]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (Senary Audio)
+[2026.07.30-02.21.15:960][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.30-02.21.15:960][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.30-02.21.15:960][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.30-02.21.15:960][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.07.30-02.21.15:960][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.07.30-02.21.15:963][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.07.30-02.21.15:963][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.07.30-02.21.15:963][713]LogInit: FAudioDevice initialized with ID 31.
+[2026.07.30-02.21.15:963][713]LogAudio: Display: Audio Device (ID: 31) registered with world 'SampleGame_1'.
+[2026.07.30-02.21.15:963][713]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.07.30-02.21.16:003][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.30-02.21.16:003][713]LogLoad: Game class is 'BP_MyGameMode_C'
+[2026.07.30-02.21.16:004][713]LogWorld: Bringing World /Game/Project/Levels/UEDPIE_0_SampleGame_1.SampleGame_1 up for play (max tick rate 60) at 2026.07.30-11.21.16
+[2026.07.30-02.21.16:004][713]LogWorld: Bringing up level for play took: 0.001475
+[2026.07.30-02.21.16:007][713]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.07.30-02.21.16:016][713]PIE: サーバーにログインしました
+[2026.07.30-02.21.16:019][713]PIE: PIE合計開始時間 0.114 秒。
+[2026.07.30-02.21.16:075][714]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.21.18:667][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.30-02.21.18:667][865]LogWorld: BeginTearingDown for /Game/Project/Levels/UEDPIE_0_SampleGame_1
+[2026.07.30-02.21.18:667][865]LogSlate: Window 'SampleProject57 プレビュー [NetMode: Standalone 0]  (64-ビット/PC D3D SM6)' being destroyed
+[2026.07.30-02.21.18:677][865]LogWorld: UWorld::CleanupWorld for SampleGame_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.21.18:677][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.21.18:678][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.30-02.21.18:683][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.21.18:711][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.07.30-02.21.18:711][865]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.07.30-02.21.18:713][865]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.07.30-02.21.18:719][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.07.30-02.21.18:742][866]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.07.30-02.21.24:381][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.07.30-02.21.24:383][190]LogStreaming: Display: FlushAsyncLoading(689): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.30-02.21.24:387][190]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.30-02.21.24:395][190]LogAssetEditorSubsystem: Opening Asset editor for World /Game/新規フォルダ/TestLevel1.TestLevel1
+[2026.07.30-02.21.24:395][190]Cmd: MAP LOAD FILE="../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Content/新規フォルダ/TestLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.07.30-02.21.24:410][190]LogWorld: UWorld::CleanupWorld for SampleGame_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.21.24:410][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.21.24:440][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.30-02.21.24:442][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.07.30-02.21.24:444][190]LogWorld: UWorld::CleanupWorld for TestLevel1, bSessionEnded=true, bCleanupResources=true
+[2026.07.30-02.21.24:445][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.21.24:473][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.07.30-02.21.24:562][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.07.30-02.21.24:568][190]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel1'.
+[2026.07.30-02.21.24:568][190]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel1
+[2026.07.30-02.21.24:587][190]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.30-02.21.24:616][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.07.30-02.21.24:624][190]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.30-02.21.24:624][190]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.053ミリ秒かかりました。
+[2026.07.30-02.21.24:726][191]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.30-02.21.25:031][194]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.30-02.24.27:651][928]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/新規フォルダ/UW_MyUI.UW_MyUI
+[2026.07.30-02.24.27:664][928]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+スペースバー]
+[2026.07.30-02.24.27:822][928]LogStreaming: Display: FlushAsyncLoading(691): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.30-02.24.28:251][928]LogSlate: Took 0.002031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.07.30-02.26.29:733][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6989.583984
+[2026.07.30-02.26.29:981][208]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.26.29:981][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6989.815918, Update Interval: 307.055267
+[2026.07.30-02.30.01:870][507]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/UW_MyUI.UW_MyUI'
+[2026.07.30-02.30.01:942][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.07.30-02.31.32:225][362]LogSlate: Window 'ウィジェットに追加するコンポーネントを選択します。' being destroyed
+[2026.07.30-02.31.32:443][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.07.30-02.31.32:446][363]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.035
+[2026.07.30-02.31.32:446][363]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/UW_MyUI] ([2] browsable assets)...
+[2026.07.30-02.31.32:451][363]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/新規フォルダ/UW_MyUI.UW_MyUI]
+[2026.07.30-02.31.32:451][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/UW_MyUI]
+[2026.07.30-02.31.32:456][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/UW_MyUI_Auto3
+[2026.07.30-02.31.32:456][363]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/UW_MyUI_Auto32D337BF64BD56E96141CC3BAB6356116.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/UW_MyUI_Auto3.uasset'
+[2026.07.30-02.31.32:456][363]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.07.30-02.31.52:611][422]LogDerivedDataCache: C:/Users/ktc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.30-02.32.27:777][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7347.583008
+[2026.07.30-02.32.28:777][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.32.28:777][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7348.250000, Update Interval: 316.809601
+[2026.07.30-02.38.16:059][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7695.753906
+[2026.07.30-02.38.17:059][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.38.17:059][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7696.422363, Update Interval: 326.285583
+[2026.07.30-02.42.06:907][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.07.30-02.42.06:911][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.082
+[2026.07.30-02.42.06:911][115]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/UW_MyUI] ([2] browsable assets)...
+[2026.07.30-02.42.06:917][115]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/新規フォルダ/UW_MyUI.UW_MyUI]
+[2026.07.30-02.42.06:917][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/UW_MyUI]
+[2026.07.30-02.42.06:922][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/UW_MyUI_Auto4
+[2026.07.30-02.42.06:922][115]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/UW_MyUI_Auto468F6B9C5415ABB6920CA2F869FD9806C.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/UW_MyUI_Auto4.uasset'
+[2026.07.30-02.42.06:923][115]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.07.30-02.44.28:756][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8068.429199
+[2026.07.30-02.44.28:989][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.44.28:990][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8068.645508, Update Interval: 304.213379
+[2026.07.30-02.44.43:888][477]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18415781392472824496
+[2026.07.30-02.44.43:888][477]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.07.30-02.44.43:898][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.30-02.44.45:144][480]LogVSAccessor: Visual Studio is open but could not be queried - it may still be initializing or blocked by a modal operation
+[2026.07.30-02.45.15:866][222]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 17772EDD447EFA1D1E5867979103AFDB (172.22.81.47:52894)
+[2026.07.30-02.45.15:866][222]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 0D7DA73844D2BA537F0949A1ABEC827D (172.22.81.18:57385)
+[2026.07.30-02.45.15:866][222]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 1D07D9844D06792B3AE8EF934A9BC2B4 (172.22.81.27:51208)
+[2026.07.30-02.45.16:188][222]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node CCD4FF9C42CE8F199270168F1B5D22AE (172.22.81.53:53397)
+[2026.07.30-02.45.16:188][222]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 0A795EC746DC473572A2B09E37A37E71 (172.22.81.29:65030)
+[2026.07.30-02.45.16:199][223]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 60C67FE94B1F89621E3782B7F8DBF596 (172.22.81.17:64639)
+[2026.07.30-02.45.16:351][226]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 4EB1A592463427AD920B5C843EAA3BB2 (172.22.81.54:61559)
+[2026.07.30-02.45.16:351][226]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 8706089A46552A5B68BCF4A87EA836BD (172.22.81.47:54241)
+[2026.07.30-02.47.02:739][865]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/UW_MyUI.UW_MyUI'
+[2026.07.30-02.47.02:829][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.07.30-02.49.06:978][663]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/UW_MyUI.UW_MyUI'
+[2026.07.30-02.49.07:067][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.07.30-02.50.07:531][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8407.126953
+[2026.07.30-02.50.08:531][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.50.08:531][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8407.792969, Update Interval: 316.082642
+[2026.07.30-02.56.12:287][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8771.748047
+[2026.07.30-02.56.12:537][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-02.56.12:537][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8771.981445, Update Interval: 308.782013
+[2026.07.30-02.57.14:979][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.07.30-02.57.14:983][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/新規フォルダ/TestLevel1' took 0.066
+[2026.07.30-02.57.14:984][337]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/新規フォルダ/UW_MyUI] ([2] browsable assets)...
+[2026.07.30-02.57.14:987][337]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/新規フォルダ/UW_MyUI.UW_MyUI]
+[2026.07.30-02.57.14:987][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/新規フォルダ/UW_MyUI]
+[2026.07.30-02.57.14:992][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/新規フォルダ/UW_MyUI_Auto5
+[2026.07.30-02.57.14:992][337]LogSavePackage: Moving '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/UW_MyUI_Auto5493CF26A46AA5420CDC81098833C24E3.tmp' to '../../../../../../Users/ktc/Documents/unreal-mokuyou12/SampleProject57/SampleProject57/Saved/Autosaves/Game/新規フォルダ/UW_MyUI_Auto5.uasset'
+[2026.07.30-02.57.14:993][337]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.07.30-02.58.11:696][719]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/UW_MyUI.UW_MyUI'
+[2026.07.30-02.58.11:749][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.07.30-03.00.05:650][328]LogBlueprint: Compiling Blueprint '/Game/新規フォルダ/UW_MyUI.UW_MyUI'
+[2026.07.30-03.00.05:703][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.07.30-03.02.00:618][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9119.892578
+[2026.07.30-03.02.01:618][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-03.02.01:618][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9120.558594, Update Interval: 336.526978
